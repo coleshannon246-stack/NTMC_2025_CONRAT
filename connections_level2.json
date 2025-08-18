@@ -1,0 +1,7139 @@
+[
+    {
+        "group": "KEYBOARD KEYS",
+        "members": [
+            "OPTION",
+            "RETURN",
+            "SHIFT",
+            "TAB"
+        ]
+    },
+    {
+        "group": "MAGAZINES",
+        "members": [
+            "ESSENCE",
+            "PEOPLE",
+            "TIME",
+            "US"
+        ]
+    },
+    {
+        "group": "DOG BREEDS, INFORMALLY",
+        "members": [
+            "LAB",
+            "PEKE",
+            "PIT",
+            "POM"
+        ]
+    },
+    {
+        "group": "CLEANING VERBS",
+        "members": [
+            "DUST",
+            "MOP",
+            "SWEEP",
+            "VACUUM"
+        ]
+    },
+    {
+        "group": "SYNONYMS FOR SAD",
+        "members": [
+            "BLUE",
+            "DOWN",
+            "GLUM",
+            "LOW"
+        ]
+    },
+    {
+        "group": "RAPPERS",
+        "members": [
+            "COMMON",
+            "FUTURE",
+            "ICE CUBE",
+            "Q-TIP"
+        ]
+    },
+    {
+        "group": "SLANG FOR TOILET",
+        "members": [
+            "CAN",
+            "HEAD",
+            "JOHN",
+            "THRONE"
+        ]
+    },
+    {
+        "group": "THINGS THAT ARE RED",
+        "members": [
+            "CHERRY",
+            "FIRE TRUCK",
+            "RUBY",
+            "STOP SIGN"
+        ]
+    },
+    {
+        "group": "VEGETABLES",
+        "members": [
+            "BEET",
+            "CARROT",
+            "CORN",
+            "ONION"
+        ]
+    },
+    {
+        "group": "BIRDS",
+        "members": [
+            "CRANE",
+            "JAY",
+            "SWALLOW",
+            "TURKEY"
+        ]
+    },
+    {
+        "group": "THINGS WITH WINGS",
+        "members": [
+            "AIRPLANE",
+            "ANGEL",
+            "BIRD",
+            "PEGASUS"
+        ]
+    },
+    {
+        "group": "SLOW ANIMALS",
+        "members": [
+            "LORIS",
+            "SLOTH",
+            "SNAIL",
+            "TORTOISE"
+        ]
+    },
+    {
+        "group": "SILENT “G”",
+        "members": [
+            "GNAT",
+            "GNAW",
+            "GNOCCHI",
+            "GNOME"
+        ]
+    },
+    {
+        "group": "HONDAS",
+        "members": [
+            "ACCORD",
+            "CIVIC",
+            "PASSPORT",
+            "PILOT"
+        ]
+    },
+    {
+        "group": "FISHING GEAR",
+        "members": [
+            "LURE",
+            "REEL",
+            "ROD",
+            "TACKLE"
+        ]
+    },
+    {
+        "group": "SHADES OF GREEN",
+        "members": [
+            "EMERALD",
+            "FOREST",
+            "KELLY",
+            "OLIVE"
+        ]
+    },
+    {
+        "group": "DETERGENTS",
+        "members": [
+            "ALL",
+            "ERA",
+            "GAIN",
+            "TIDE"
+        ]
+    },
+    {
+        "group": "TITLE TV DOCTORS",
+        "members": [
+            "GREY",
+            "HOUSE",
+            "HOWSER",
+            "QUINN"
+        ]
+    },
+    {
+        "group": "KINDS OF MEAT",
+        "members": [
+            "BEEF",
+            "PORK",
+            "POULTRY",
+            "VENISON"
+        ]
+    },
+    {
+        "group": "UNIVERSITIES",
+        "members": [
+            "BROWN",
+            "DUKE",
+            "HOWARD",
+            "RICE"
+        ]
+    },
+    {
+        "group": "“LITTLE WOMEN” SISTERS",
+        "members": [
+            "AMY",
+            "BETH",
+            "JO",
+            "MEG"
+        ]
+    },
+    {
+        "group": "TRAFFIC SIGNS",
+        "members": [
+            "DETOUR",
+            "SLOW",
+            "STOP",
+            "YIELD"
+        ]
+    },
+    {
+        "group": "MAGAZINES",
+        "members": [
+            "FORTUNE",
+            "ROLLING STONE",
+            "VOGUE",
+            "WIRED"
+        ]
+    },
+    {
+        "group": "EAR PARTS",
+        "members": [
+            "ANVIL",
+            "COCHLEA",
+            "HAMMER",
+            "STIRRUP"
+        ]
+    },
+    {
+        "group": "ANIMALS WITH TUSKS",
+        "members": [
+            "ELEPHANT",
+            "HIPPO",
+            "NARWHAL",
+            "WARTHOG"
+        ]
+    },
+    {
+        "group": "TOMS",
+        "members": [
+            "CRUISE",
+            "HOLLAND",
+            "PETTY",
+            "WAITS"
+        ]
+    },
+    {
+        "group": "PARTS OF A BOOK",
+        "members": [
+            "COVER",
+            "JACKET",
+            "PAGE",
+            "SPINE"
+        ]
+    },
+    {
+        "group": "FLIGHTLESS BIRDS",
+        "members": [
+            "EMU",
+            "KIWI",
+            "OSTRICH",
+            "PENGUIN"
+        ]
+    },
+    {
+        "group": "FISH",
+        "members": [
+            "TANG",
+            "TETRA",
+            "SKATE",
+            "SOLE"
+        ]
+    },
+    {
+        "group": "JOINTS",
+        "members": [
+            "HIP",
+            "KNEE",
+            "SHOULDER",
+            "WRIST"
+        ]
+    },
+    {
+        "group": "WORDS WITH “i”",
+        "members": [
+            "MAC",
+            "PAD",
+            "PHONE",
+            "POD"
+        ]
+    },
+    {
+        "group": "FICTIONAL SPIES",
+        "members": [
+            "BOND",
+            "HUNT",
+            "RYAN",
+            "SMART"
+        ]
+    },
+    {
+        "group": "CUTS OF BEEF",
+        "members": [
+            "FLANK",
+            "LOIN",
+            "ROUND",
+            "SHANK"
+        ]
+    },
+    {
+        "group": "ROCK PAPER SCISSORS",
+        "members": [
+            "PAPER",
+            "ROCK",
+            "SCISSORS",
+            "SHOOT"
+        ]
+    },
+    {
+        "group": "LUCKY CHARMS MARSHMALLOWS",
+        "members": [
+            "CLOVER",
+            "HORSESHOE",
+            "MOON",
+            "RAINBOW"
+        ]
+    },
+    {
+        "group": "SLANG FOR MONEY",
+        "members": [
+            "CHEDDAR",
+            "DOUGH",
+            "PAPER",
+            "STACKS"
+        ]
+    },
+    {
+        "group": "SYNONYMS FOR SELL",
+        "members": [
+            "HAWK",
+            "MOVE",
+            "PEDDLE",
+            "VEND"
+        ]
+    },
+    {
+        "group": "BAGEL FLAVORS",
+        "members": [
+            "EVERYTHING",
+            "ONION",
+            "PLAIN",
+            "POPPY"
+        ]
+    },
+    {
+        "group": "UNITS OF MEASURE",
+        "members": [
+            "HERTZ",
+            "MOLE",
+            "NEWTON",
+            "SECOND"
+        ]
+    },
+    {
+        "group": "SUNGLASSES",
+        "members": [
+            "AVIATOR",
+            "CAT EYE",
+            "WAYFARER",
+            "WRAPAROUND"
+        ]
+    },
+    {
+        "group": "ISLAND COUNTRIES",
+        "members": [
+            "CUBA",
+            "JAPAN",
+            "MALTA",
+            "PALAU"
+        ]
+    },
+    {
+        "group": "RUN QUICKLY",
+        "members": [
+            "BOLT",
+            "DASH",
+            "RACE",
+            "SPRINT"
+        ]
+    },
+    {
+        "group": "MARINE BIRDS",
+        "members": [
+            "BOOBY",
+            "GULL",
+            "PELICAN",
+            "PUFFIN"
+        ]
+    },
+    {
+        "group": "DEFEAT BADLY",
+        "members": [
+            "CRUSH",
+            "ROUT",
+            "SHELLAC",
+            "TRASH"
+        ]
+    },
+    {
+        "group": "FAST FOOD CHAINS",
+        "members": [
+            "CHECKERS",
+            "OUTBACK",
+            "SONIC",
+            "SUBWAY"
+        ]
+    },
+    {
+        "group": "STORMS",
+        "members": [
+            "BLIZZARD",
+            "CYCLONE",
+            "SQUALL",
+            "TORNADO"
+        ]
+    },
+    {
+        "group": "YOGA POSES",
+        "members": [
+            "COBRA",
+            "LOTUS",
+            "TREE",
+            "WARRIOR"
+        ]
+    },
+    {
+        "group": "SYNONYMS FOR BOTHER",
+        "members": [
+            "NEEDLE",
+            "POKE",
+            "RIB",
+            "TEASE"
+        ]
+    },
+    {
+        "group": "DISNEY DUCKS",
+        "members": [
+            "DAISY",
+            "DEWEY",
+            "DONALD",
+            "SCROOGE"
+        ]
+    },
+    {
+        "group": "DEEP-FRIED FOOD",
+        "members": [
+            "FALAFEL",
+            "KATSU",
+            "SAMOSA",
+            "SCHNITZEL"
+        ]
+    },
+    {
+        "group": "VAMPIRE MOVIES",
+        "members": [
+            "BLADE",
+            "LOST BOYS",
+            "NEAR DARK",
+            "TWILIGHT"
+        ]
+    },
+    {
+        "group": "MUSICAL INSTRUMENTS",
+        "members": [
+            "HARP",
+            "HORN",
+            "ORGAN",
+            "TRIANGLE"
+        ]
+    },
+    {
+        "group": "AP CLASSES",
+        "members": [
+            "BIO",
+            "CHEM",
+            "GOV",
+            "STATS"
+        ]
+    },
+    {
+        "group": "PRESIDENTIAL FIRST NAMES",
+        "members": [
+            "CALVIN",
+            "CHESTER",
+            "GROVER",
+            "HARRY"
+        ]
+    },
+    {
+        "group": "SHAKESPEARE CHARACTERS",
+        "members": [
+            "DUNCAN",
+            "JULIET",
+            "PUCK",
+            "VIOLA"
+        ]
+    },
+    {
+        "group": "TOUCHSCREEN GESTURES",
+        "members": [
+            "PINCH",
+            "SPREAD",
+            "SWIPE",
+            "TAP"
+        ]
+    },
+    {
+        "group": "SYNONYMS FOR FALSEHOOD",
+        "members": [
+            "FIB",
+            "FICTION",
+            "LIE",
+            "TALE"
+        ]
+    },
+    {
+        "group": "SUPERHEROES",
+        "members": [
+            "BLACK WIDOW",
+            "BLADE",
+            "FLASH",
+            "STORM"
+        ]
+    },
+    {
+        "group": "NEWSPAPERS",
+        "members": [
+            "GLOBE",
+            "JOURNAL",
+            "POST",
+            "SUN"
+        ]
+    },
+    {
+        "group": "MAKE HAPPY",
+        "members": [
+            "CHARM",
+            "DELIGHT",
+            "PLEASE",
+            "TICKLE"
+        ]
+    },
+    {
+        "group": "AUSTRALIAN TERMS",
+        "members": [
+            "BARBIE",
+            "BUSH",
+            "CRIKEY",
+            "MATE"
+        ]
+    },
+    {
+        "group": "GREEK LETTERS",
+        "members": [
+            "MU",
+            "NU",
+            "PI",
+            "XI"
+        ]
+    },
+    {
+        "group": "GYM EXERCISES",
+        "members": [
+            "CURL",
+            "LUNGE",
+            "PLANK",
+            "PRESS"
+        ]
+    },
+    {
+        "group": "FISHING TERMS",
+        "members": [
+            "BAIT",
+            "CHUM",
+            "FLY",
+            "SINKER"
+        ]
+    },
+    {
+        "group": "CLASSICAL ELEMENTS",
+        "members": [
+            "AIR",
+            "EARTH",
+            "FIRE",
+            "WATER"
+        ]
+    },
+    {
+        "group": "PAINTERS",
+        "members": [
+            "BACON",
+            "CLOSE",
+            "MUNCH",
+            "WHISTLER"
+        ]
+    },
+    {
+        "group": "ALTER DECEPTIVELY",
+        "members": [
+            "DISTORT",
+            "DOCTOR",
+            "FUDGE",
+            "TWIST"
+        ]
+    },
+    {
+        "group": "WORLD CURRENCIES",
+        "members": [
+            "RAND",
+            "REAL",
+            "STERLING",
+            "WON"
+        ]
+    },
+    {
+        "group": "SHOES",
+        "members": [
+            "CLOG",
+            "PUMP",
+            "SLIDE",
+            "WEDGE"
+        ]
+    },
+    {
+        "group": "TINY",
+        "members": [
+            "MINUTE",
+            "SLIGHT",
+            "SMALL",
+            "WEE"
+        ]
+    },
+    {
+        "group": "CLASSIC ROCK BANDS",
+        "members": [
+            "GENESIS",
+            "KANSAS",
+            "RUSH",
+            "YES"
+        ]
+    },
+    {
+        "group": "SEEN ON VALENTINE’S DAY",
+        "members": [
+            "CARD",
+            "CHOCOLATE",
+            "HEART",
+            "ROSE"
+        ]
+    },
+    {
+        "group": "PURSUE",
+        "members": [
+            "DOG",
+            "FOLLOW",
+            "TAIL",
+            "TRACK"
+        ]
+    },
+    {
+        "group": "SLANG FOR CLOTHES",
+        "members": [
+            "DUDS",
+            "GETUP",
+            "OUTFIT",
+            "THREADS"
+        ]
+    },
+    {
+        "group": "“PINOCCHIO” FIGURES",
+        "members": [
+            "CRICKET",
+            "PUPPET",
+            "WHALE",
+            "WOODCARVER"
+        ]
+    },
+    {
+        "group": "FIGURES IN GREEK MYTH",
+        "members": [
+            "ATLAS",
+            "HERMES",
+            "NIKE",
+            "PARIS"
+        ]
+    },
+    {
+        "group": "DRUM SET COMPONENTS",
+        "members": [
+            "CYMBAL",
+            "KICK",
+            "SNARE",
+            "TOM"
+        ]
+    },
+    {
+        "group": "GREETING GESTURES",
+        "members": [
+            "HIGH FIVE",
+            "HUG",
+            "SHAKE",
+            "WAVE"
+        ]
+    },
+    {
+        "group": "SHADES OF BLACK",
+        "members": [
+            "EBONY",
+            "JET",
+            "ONYX",
+            "RAVEN"
+        ]
+    },
+    {
+        "group": "EGYPTIAN SYMBOLS",
+        "members": [
+            "ANKH",
+            "CROOK",
+            "EYE",
+            "SCARAB"
+        ]
+    },
+    {
+        "group": "MAR",
+        "members": [
+            "CHIP",
+            "DING",
+            "NICK",
+            "SCRATCH"
+        ]
+    },
+    {
+        "group": "AMERICAN POETS",
+        "members": [
+            "BISHOP",
+            "FROST",
+            "OLDS",
+            "POUND"
+        ]
+    },
+    {
+        "group": "AMERICAN FOOTBALL ACTIONS",
+        "members": [
+            "FUMBLE",
+            "PUNT",
+            "SACK",
+            "SNAP"
+        ]
+    },
+    {
+        "group": "ROMAN NUMERALS",
+        "members": [
+            "D",
+            "L",
+            "M",
+            "V"
+        ]
+    },
+    {
+        "group": "THINGS WITH TEETH",
+        "members": [
+            "COMB",
+            "GEAR",
+            "SAW",
+            "ZIPPER"
+        ]
+    },
+    {
+        "group": "THANKSGIVING FOOD",
+        "members": [
+            "GRAVY",
+            "PIE",
+            "STUFFING",
+            "TURKEY"
+        ]
+    },
+    {
+        "group": "ONE INVOLVED IN ESPIONAGE",
+        "members": [
+            "AGENT",
+            "MOLE",
+            "PLANT",
+            "SPY"
+        ]
+    },
+    {
+        "group": "WHEN HARRY MET SALLY",
+        "members": [
+            "HARRY",
+            "MET",
+            "SALLY",
+            "WHEN"
+        ]
+    },
+    {
+        "group": "PIXAR MOVIES",
+        "members": [
+            "BRAVE",
+            "CARS",
+            "COCO",
+            "UP"
+        ]
+    },
+    {
+        "group": "FISH THAT ARE VERBS",
+        "members": [
+            "CARP",
+            "CATFISH",
+            "FLOUNDER",
+            "SMELT"
+        ]
+    },
+    {
+        "group": "MUSICALS",
+        "members": [
+            "COMPANY",
+            "GREASE",
+            "HAIR",
+            "RENT"
+        ]
+    },
+    {
+        "group": "SLOT MACHINE SYMBOLS",
+        "members": [
+            "7",
+            "BAR",
+            "BELL",
+            "CHERRY"
+        ]
+    },
+    {
+        "group": "TREE FEATURES",
+        "members": [
+            "BARK",
+            "BRANCH",
+            "ROOT",
+            "TRUNK"
+        ]
+    },
+    {
+        "group": "ANAGRAMS",
+        "members": [
+            "NOPE",
+            "OPEN",
+            "PEON",
+            "PONE"
+        ]
+    },
+    {
+        "group": "RADIO LINGO",
+        "members": [
+            "COPY",
+            "OUT",
+            "OVER",
+            "ROGER"
+        ]
+    },
+    {
+        "group": "GYMNASTICS APPARATUS",
+        "members": [
+            "FLOOR",
+            "HORSE",
+            "RINGS",
+            "VAULT"
+        ]
+    },
+    {
+        "group": "“PEANUTS” CHARACTERS",
+        "members": [
+            "CHARLIE",
+            "PEPPERMINT PATTY",
+            "PIGPEN",
+            "WOODSTOCK"
+        ]
+    },
+    {
+        "group": "BEST ACTRESS OSCAR WINNERS",
+        "members": [
+            "BERRY",
+            "FOSTER",
+            "STONE",
+            "SWANK"
+        ]
+    },
+    {
+        "group": "WESTERN TROPES",
+        "members": [
+            "COWBOY",
+            "DRIFTER",
+            "OUTLAW",
+            "SHERIFF"
+        ]
+    },
+    {
+        "group": "CONNECTION",
+        "members": [
+            "BOND",
+            "LINK",
+            "RELATION",
+            "TIE"
+        ]
+    },
+    {
+        "group": "COMMON SWAG ITEMS",
+        "members": [
+            "MUG",
+            "PEN",
+            "TEE",
+            "TOTE"
+        ]
+    },
+    {
+        "group": "MUPPETS",
+        "members": [
+            "ANIMAL",
+            "BEAKER",
+            "GONZO",
+            "SCOOTER"
+        ]
+    },
+    {
+        "group": "M. NIGHT SHYAMALAN MOVIES",
+        "members": [
+            "GLASS",
+            "OLD",
+            "SIGNS",
+            "SPLIT"
+        ]
+    },
+    {
+        "group": "WATER SOURCES",
+        "members": [
+            "FOUNTAIN",
+            "SPRING",
+            "TAP",
+            "WELL"
+        ]
+    },
+    {
+        "group": "SUPER MARIO-RELATED",
+        "members": [
+            "DINOSAUR",
+            "MUSHROOM",
+            "PLUMBER",
+            "PRINCESS"
+        ]
+    },
+    {
+        "group": "JACKS",
+        "members": [
+            "BLACK",
+            "FROST",
+            "MA",
+            "SPARROW"
+        ]
+    },
+    {
+        "group": "SUMMARY",
+        "members": [
+            "ABSTRACT",
+            "BRIEF",
+            "DIGEST",
+            "RUNDOWN"
+        ]
+    },
+    {
+        "group": "TARGET OF A SCHEME",
+        "members": [
+            "CHUMP",
+            "FOOL",
+            "MARK",
+            "SUCKER"
+        ]
+    },
+    {
+        "group": "RAP SUBGENRES",
+        "members": [
+            "BOUNCE",
+            "CRUNK",
+            "DRILL",
+            "GRIME"
+        ]
+    },
+    {
+        "group": "HUDSONS",
+        "members": [
+            "HENRY",
+            "JENNIFER",
+            "KATE",
+            "ROCK"
+        ]
+    },
+    {
+        "group": "YEARN",
+        "members": [
+            "ACHE",
+            "LONG",
+            "PINE",
+            "THIRST"
+        ]
+    },
+    {
+        "group": "THINGS THAT ARE RED",
+        "members": [
+            "BEET",
+            "BRICK",
+            "CARDINAL",
+            "POPPY"
+        ]
+    },
+    {
+        "group": "ANIMAL COVERINGS",
+        "members": [
+            "DOWN",
+            "FUR",
+            "SCALES",
+            "SHELL"
+        ]
+    },
+    {
+        "group": "SNEAKER BRANDS",
+        "members": [
+            "CONVERSE",
+            "JORDAN",
+            "PUMA",
+            "VANS"
+        ]
+    },
+    {
+        "group": "TORUS-SHAPED FOOD",
+        "members": [
+            "BAGEL",
+            "CHEERIO",
+            "DONUT",
+            "LIFESAVER"
+        ]
+    },
+    {
+        "group": "M.L.B. TEAM MEMBER",
+        "members": [
+            "ANGEL",
+            "CUB",
+            "MET",
+            "RED"
+        ]
+    },
+    {
+        "group": "“PETER PAN” CHARACTERS",
+        "members": [
+            "HOOK",
+            "NANA",
+            "PETER",
+            "WENDY"
+        ]
+    },
+    {
+        "group": "IRREGULAR VERBS",
+        "members": [
+            "DREW",
+            "ROSE",
+            "WILL",
+            "MAY"
+        ]
+    },
+    {
+        "group": "CITIES AND TOWNS IN ENGLAND",
+        "members": [
+            "BATH",
+            "DERBY",
+            "READING",
+            "SANDWICH"
+        ]
+    },
+    {
+        "group": "SONG",
+        "members": [
+            "CUT",
+            "NUMBER",
+            "SINGLE",
+            "TRACK"
+        ]
+    },
+    {
+        "group": "N.H.L. TEAMS",
+        "members": [
+            "FLAMES",
+            "KRAKEN",
+            "STARS",
+            "WILD"
+        ]
+    },
+    {
+        "group": "FOREMOST",
+        "members": [
+            "HEAD",
+            "LEAD",
+            "PRIME",
+            "TOP"
+        ]
+    },
+    {
+        "group": "WONDER WOMAN’S COSTUME",
+        "members": [
+            "LASSO",
+            "SHIELD",
+            "SWORD",
+            "TIARA"
+        ]
+    },
+    {
+        "group": "POETRY TERMS",
+        "members": [
+            "LINE",
+            "METER",
+            "RHYME",
+            "VERSE"
+        ]
+    },
+    {
+        "group": "SLANG FOR HOME",
+        "members": [
+            "CRIB",
+            "DIGS",
+            "JOINT",
+            "PAD"
+        ]
+    },
+    {
+        "group": "SHORTCUT COMMANDS",
+        "members": [
+            "COPY",
+            "FIND",
+            "PRINT",
+            "SAVE"
+        ]
+    },
+    {
+        "group": "“THE ADDAMS FAMILY” CHARACTERS",
+        "members": [
+            "FESTER",
+            "LURCH",
+            "THING",
+            "WEDNESDAY"
+        ]
+    },
+    {
+        "group": "RUDELY BREAK OFF CONTACT",
+        "members": [
+            "DESERT",
+            "GHOST",
+            "IGNORE",
+            "JILT"
+        ]
+    },
+    {
+        "group": "PIQUANCY",
+        "members": [
+            "BITE",
+            "KICK",
+            "TANG",
+            "ZIP"
+        ]
+    },
+    {
+        "group": "TV SHOWS",
+        "members": [
+            "FARGO",
+            "FIREFLY",
+            "FLEABAG",
+            "FLIPPER"
+        ]
+    },
+    {
+        "group": "EQUITABLE",
+        "members": [
+            "EQUAL",
+            "EVEN",
+            "FAIR",
+            "JUST"
+        ]
+    },
+    {
+        "group": "BRA PARTS",
+        "members": [
+            "CUP",
+            "HOOK",
+            "STRAP",
+            "WIRE"
+        ]
+    },
+    {
+        "group": "BRITISH CUISINE",
+        "members": [
+            "MASH",
+            "ROAST",
+            "SCONE",
+            "TRIFLE"
+        ]
+    },
+    {
+        "group": "ROMANTIC BEGINNINGS",
+        "members": [
+            "CONNECTION",
+            "FEELINGS",
+            "SPARK",
+            "VIBE"
+        ]
+    },
+    {
+        "group": "PARADIGMATIC",
+        "members": [
+            "CLASSIC",
+            "DEFINITIVE",
+            "MODEL",
+            "TEXTBOOK"
+        ]
+    },
+    {
+        "group": "12 DAYS OF CHRISTMAS",
+        "members": [
+            "DRUMMER",
+            "LADY",
+            "RING",
+            "SWAN"
+        ]
+    },
+    {
+        "group": "FINE BUBBLES",
+        "members": [
+            "FOAM",
+            "FROTH",
+            "HEAD",
+            "LATHER"
+        ]
+    },
+    {
+        "group": "W.N.B.A. TEAMS",
+        "members": [
+            "MERCURY",
+            "SKY",
+            "SPARKS",
+            "LIBERTY"
+        ]
+    },
+    {
+        "group": "“AGREE!”",
+        "members": [
+            "DITTO",
+            "LIKEWISE",
+            "SAME",
+            "SECOND"
+        ]
+    },
+    {
+        "group": "GROUP OF OFFSPRING",
+        "members": [
+            "BROOD",
+            "CLUTCH",
+            "HATCH",
+            "LITTER"
+        ]
+    },
+    {
+        "group": "MAHJONG TILES",
+        "members": [
+            "BAMBOO",
+            "DRAGON",
+            "SEASON",
+            "WIND"
+        ]
+    },
+    {
+        "group": "HORROR DIRECTORS",
+        "members": [
+            "ASTER",
+            "CARPENTER",
+            "CRAVEN",
+            "WAN"
+        ]
+    },
+    {
+        "group": "SHOWS SET IN HOSPITALS",
+        "members": [
+            "ER",
+            "HOUSE",
+            "RATCHED",
+            "SCRUBS"
+        ]
+    },
+    {
+        "group": "SMALL WOODED AREA",
+        "members": [
+            "DELL",
+            "GLEN",
+            "HOLLOW",
+            "VALLEY"
+        ]
+    },
+    {
+        "group": "WORDS ABBREVIATED WITH LETTERS",
+        "members": [
+            "ARE",
+            "SEE",
+            "WHY",
+            "YOU"
+        ]
+    },
+    {
+        "group": "WEAPONS IN THE GAME CLUE",
+        "members": [
+            "CANDLESTICK",
+            "KNIFE",
+            "ROPE",
+            "WRENCH"
+        ]
+    },
+    {
+        "group": "MUSIC PUBLICATIONS",
+        "members": [
+            "BILLBOARD",
+            "PITCHFORK",
+            "ROLLING STONE",
+            "SPIN"
+        ]
+    },
+    {
+        "group": "CUBE-SHAPED",
+        "members": [
+            "BOUILLON",
+            "DIE",
+            "ICE",
+            "SUGAR"
+        ]
+    },
+    {
+        "group": "GROUP WITHIN A GROUP",
+        "members": [
+            "CAMP",
+            "DIVISION",
+            "FACTION",
+            "WING"
+        ]
+    },
+    {
+        "group": "EQUIVOCATE",
+        "members": [
+            "HEDGE",
+            "SEE-SAW",
+            "WAVER",
+            "YO-YO"
+        ]
+    },
+    {
+        "group": "PODCASTS",
+        "members": [
+            "RADIOLAB",
+            "SERIAL",
+            "UP FIRST",
+            "WTF"
+        ]
+    },
+    {
+        "group": "DEODORANTS",
+        "members": [
+            "AXE",
+            "DEGREE",
+            "OLD SPICE",
+            "SECRET"
+        ]
+    },
+    {
+        "group": "FILMMAKING EQUIPMENT",
+        "members": [
+            "BOOM",
+            "DOLLY",
+            "LENS",
+            "TRIPOD"
+        ]
+    },
+    {
+        "group": "CAR COMPANIES",
+        "members": [
+            "BMW",
+            "HONDA",
+            "JAGUAR",
+            "SUBARU"
+        ]
+    },
+    {
+        "group": "FUNNY PERSON",
+        "members": [
+            "CARD",
+            "CLOWN",
+            "CUTUP",
+            "JOKER"
+        ]
+    },
+    {
+        "group": "OBTAIN",
+        "members": [
+            "GET",
+            "LAND",
+            "SECURE",
+            "WIN"
+        ]
+    },
+    {
+        "group": "“YES” IN DIFFERENT LANGUAGES",
+        "members": [
+            "HAI",
+            "JA",
+            "SI",
+            "DA"
+        ]
+    },
+    {
+        "group": "SINGLE/PLURAL ANIMALS",
+        "members": [
+            "BUFFALO",
+            "DEER",
+            "FISH",
+            "MOOSE"
+        ]
+    },
+    {
+        "group": "M.L.B. TEAMS, FOR SHORT",
+        "members": [
+            "CARDS",
+            "JAYS",
+            "NATS",
+            "YANKS"
+        ]
+    },
+    {
+        "group": "PARTS OF A MOUNTAIN",
+        "members": [
+            "CLIFF",
+            "CRAG",
+            "LEDGE",
+            "RIDGE"
+        ]
+    },
+    {
+        "group": "WALK",
+        "members": [
+            "MARCH",
+            "STEP",
+            "STRIDE",
+            "TREAD"
+        ]
+    },
+    {
+        "group": "CHUTNEY VARIETIES",
+        "members": [
+            "MANGO",
+            "MINT",
+            "TAMARIND",
+            "TOMATO"
+        ]
+    },
+    {
+        "group": "DANCE MOVES",
+        "members": [
+            "FLOSS",
+            "ROBOT",
+            "VOGUE",
+            "WORM"
+        ]
+    },
+    {
+        "group": "FEATURED IN “SNOW WHITE”",
+        "members": [
+            "APPLE",
+            "BASHFUL",
+            "MIRROR",
+            "QUEEN"
+        ]
+    },
+    {
+        "group": "COUNTRIES WITH RED AND WHITE FLAGS",
+        "members": [
+            "JAPAN",
+            "POLAND",
+            "TUNISIA",
+            "TURKEY"
+        ]
+    },
+    {
+        "group": "CAR BRANDS",
+        "members": [
+            "FIAT",
+            "JAGUAR",
+            "MINI",
+            "RAM"
+        ]
+    },
+    {
+        "group": "BODIES OF WATER",
+        "members": [
+            "CANAL",
+            "CHANNEL",
+            "SOUND",
+            "STRAIT"
+        ]
+    },
+    {
+        "group": "FINANCIAL TERMS",
+        "members": [
+            "CAPITAL",
+            "EQUITY",
+            "INTEREST",
+            "STOCK"
+        ]
+    },
+    {
+        "group": "MOJITO INGREDIENTS",
+        "members": [
+            "LIME",
+            "MINT",
+            "RUM",
+            "SODA"
+        ]
+    },
+    {
+        "group": "FILL TO EXCESS",
+        "members": [
+            "CRAM",
+            "JAM",
+            "PACK",
+            "STUFF"
+        ]
+    },
+    {
+        "group": "DOG COMMANDS",
+        "members": [
+            "COME",
+            "DOWN",
+            "SIT",
+            "STAY"
+        ]
+    },
+    {
+        "group": "SIDEKICKS",
+        "members": [
+            "GOOSE",
+            "HOBBES",
+            "ROBIN",
+            "WATSON"
+        ]
+    },
+    {
+        "group": "PORTION OF PROFIT",
+        "members": [
+            "CUT",
+            "PIECE",
+            "SHARE",
+            "TAKE"
+        ]
+    },
+    {
+        "group": "RESTRICT",
+        "members": [
+            "CAP",
+            "CHECK",
+            "CURB",
+            "LIMIT"
+        ]
+    },
+    {
+        "group": "CONNECT",
+        "members": [
+            "COUPLE",
+            "HITCH",
+            "LINK",
+            "TIE"
+        ]
+    },
+    {
+        "group": "SMALL IMPERFECTION",
+        "members": [
+            "CHIP",
+            "MARK",
+            "NICK",
+            "SCRATCH"
+        ]
+    },
+    {
+        "group": "TV SHOWS WITH HAPPY-SOUNDING NAMES",
+        "members": [
+            "CHEERS",
+            "EUPHORIA",
+            "FELICITY",
+            "GLEE"
+        ]
+    },
+    {
+        "group": "RECORD LABELS",
+        "members": [
+            "CAPITOL",
+            "COLUMBIA",
+            "VIRGIN",
+            "ISLAND"
+        ]
+    },
+    {
+        "group": "IN THE NATO ALPHABET",
+        "members": [
+            "ALFA",
+            "BRAVO",
+            "ROMEO",
+            "TANGO"
+        ]
+    },
+    {
+        "group": "EXPRESS",
+        "members": [
+            "AIR",
+            "SPEAK",
+            "STATE",
+            "VOICE"
+        ]
+    },
+    {
+        "group": "KINDS OF COOKING OIL",
+        "members": [
+            "CORN",
+            "OLIVE",
+            "PALM",
+            "PEANUT"
+        ]
+    },
+    {
+        "group": "WRAP AROUND IN A CIRCLE",
+        "members": [
+            "COIL",
+            "SPIRAL",
+            "TWIST",
+            "WIND"
+        ]
+    },
+    {
+        "group": "SHOE PARTS",
+        "members": [
+            "EYELET",
+            "LACE",
+            "SOLE",
+            "TONGUE"
+        ]
+    },
+    {
+        "group": "PINBALL MACHINE COMPONENTS",
+        "members": [
+            "BALL",
+            "BUMPER",
+            "FLIPPER",
+            "PLUNGER"
+        ]
+    },
+    {
+        "group": "INDECENT",
+        "members": [
+            "BAWDY",
+            "BLUE",
+            "COARSE",
+            "RISQUE"
+        ]
+    },
+    {
+        "group": "SEPARATE",
+        "members": [
+            "DIVIDE",
+            "FORK",
+            "PART",
+            "SPLIT"
+        ]
+    },
+    {
+        "group": "NATIONAL SYMBOLS",
+        "members": [
+            "ANTHEM",
+            "FLAG",
+            "MOTTO",
+            "SEAL"
+        ]
+    },
+    {
+        "group": "MAKE HAPPY",
+        "members": [
+            "AMUSE",
+            "DELIGHT",
+            "PLEASE",
+            "TICKLE"
+        ]
+    },
+    {
+        "group": "USED TO BUILD A SNOWMAN",
+        "members": [
+            "CARROT",
+            "COAL",
+            "SNOW",
+            "STICKS"
+        ]
+    },
+    {
+        "group": "AVENUES IN N.Y.C.",
+        "members": [
+            "BROADWAY",
+            "FIFTH",
+            "MADISON",
+            "PARK"
+        ]
+    },
+    {
+        "group": "ATTRACTION",
+        "members": [
+            "APPEAL",
+            "CHARM",
+            "DRAW",
+            "PULL"
+        ]
+    },
+    {
+        "group": "WEE",
+        "members": [
+            "DINKY",
+            "LITTLE",
+            "MINUTE",
+            "SLIGHT"
+        ]
+    },
+    {
+        "group": "WHAT “I” MIGHT MEAN",
+        "members": [
+            "IODINE",
+            "IOTA",
+            "MYSELF",
+            "ONE"
+        ]
+    },
+    {
+        "group": "INTERVAL OF TIME",
+        "members": [
+            "PERIOD",
+            "SPELL",
+            "STRETCH",
+            "WHILE"
+        ]
+    },
+    {
+        "group": "LITTLE BIT, IN A RECIPE",
+        "members": [
+            "DASH",
+            "DROP",
+            "PINCH",
+            "SPLASH"
+        ]
+    },
+    {
+        "group": "STATUE OF LIBERTY FEATURES",
+        "members": [
+            "CROWN",
+            "ROBE",
+            "TABLET",
+            "TORCH"
+        ]
+    },
+    {
+        "group": "OOMPH",
+        "members": [
+            "ENERGY",
+            "FIRE",
+            "JUICE",
+            "ZIP"
+        ]
+    },
+    {
+        "group": "RESTRAIN",
+        "members": [
+            "CHECK",
+            "CURB",
+            "LIMIT",
+            "STEM"
+        ]
+    },
+    {
+        "group": "ART MEDIUMS",
+        "members": [
+            "CHARCOAL",
+            "INK",
+            "PAINT",
+            "PASTEL"
+        ]
+    },
+    {
+        "group": "BIRDS",
+        "members": [
+            "CARDINAL",
+            "JAY",
+            "LARK",
+            "SWIFT"
+        ]
+    },
+    {
+        "group": "LETTER SPELLINGS",
+        "members": [
+            "BEE",
+            "EX",
+            "GEE",
+            "JAY"
+        ]
+    },
+    {
+        "group": "HETERONYMS",
+        "members": [
+            "BASS",
+            "DOVE",
+            "DESERT",
+            "WIND"
+        ]
+    },
+    {
+        "group": "PLACES IN FRANCE",
+        "members": [
+            "CHAMPAGNE",
+            "DIJON",
+            "NICE",
+            "TOURS"
+        ]
+    },
+    {
+        "group": "CLASSIC GAME SHOWS, FAMILIARLY",
+        "members": [
+            "FEUD",
+            "MILLIONAIRE",
+            "PYRAMID",
+            "WHEEL"
+        ]
+    },
+    {
+        "group": "BASEBALL STATS",
+        "members": [
+            "DOUBLE",
+            "HIT",
+            "RUN",
+            "WALK"
+        ]
+    },
+    {
+        "group": "SELECT, AS A BOX ON A FORM",
+        "members": [
+            "CHECK",
+            "MARK",
+            "TICK",
+            "X"
+        ]
+    },
+    {
+        "group": "COOL, IN SLANG",
+        "members": [
+            "FIRE",
+            "LIT",
+            "SICK",
+            "TIGHT"
+        ]
+    },
+    {
+        "group": "WORDS FOR SPECIFIC QUANTITIES",
+        "members": [
+            "DOZEN",
+            "GROSS",
+            "PAIR",
+            "SCORE"
+        ]
+    },
+    {
+        "group": "THINGS TO PICK",
+        "members": [
+            "AFRO",
+            "BONE",
+            "FIGHT",
+            "LOCK"
+        ]
+    },
+    {
+        "group": "SOMETHING EXEMPLARY",
+        "members": [
+            "BEAUTY",
+            "GEM",
+            "MARVEL",
+            "PEACH"
+        ]
+    },
+    {
+        "group": "SEEN ON A GOLF COURSE",
+        "members": [
+            "CART",
+            "CLUB",
+            "HOLE",
+            "TEE"
+        ]
+    },
+    {
+        "group": "THINGS THAT MAKE YOU SNEEZE",
+        "members": [
+            "DUST",
+            "PEPPER",
+            "POLLEN",
+            "SMOKE"
+        ]
+    },
+    {
+        "group": "THINGS SEEN AT A CASINO",
+        "members": [
+            "CARDS",
+            "CHIPS",
+            "DICE",
+            "SLOTS"
+        ]
+    },
+    {
+        "group": "“PH” WORDS THAT ALSO WORK WITH “F”",
+        "members": [
+            "PHAT",
+            "PHEW",
+            "PHILLY",
+            "PHISH"
+        ]
+    },
+    {
+        "group": "PARTS OF A CAR, INFORMALLY",
+        "members": [
+            "DASH",
+            "SHOCK",
+            "TANK",
+            "WHEEL"
+        ]
+    },
+    {
+        "group": "AMERICAN FOOTBALL POSITIONS",
+        "members": [
+            "CENTER",
+            "END",
+            "SAFETY",
+            "TACKLE"
+        ]
+    },
+    {
+        "group": "MALE ANIMALS",
+        "members": [
+            "BUCK",
+            "BULL",
+            "JACK",
+            "TOM"
+        ]
+    },
+    {
+        "group": "MEDICINE FORMATS",
+        "members": [
+            "CAPSULE",
+            "CREAM",
+            "SYRUP",
+            "TABLET"
+        ]
+    },
+    {
+        "group": "TILT TO ONE SIDE",
+        "members": [
+            "CANT",
+            "LEAN",
+            "LIST",
+            "SLOPE"
+        ]
+    },
+    {
+        "group": "ADJECTIVE INTENSIFIERS",
+        "members": [
+            "AWFUL",
+            "PRETTY",
+            "RATHER",
+            "REAL"
+        ]
+    },
+    {
+        "group": "COLORS IN BRAZIL’S FLAG",
+        "members": [
+            "BLUE",
+            "GREEN",
+            "WHITE",
+            "YELLOW"
+        ]
+    },
+    {
+        "group": "“PHOOEY!”",
+        "members": [
+            "CURSES",
+            "DARN",
+            "RATS",
+            "SHOOT"
+        ]
+    },
+    {
+        "group": "KINDS OF DANCE",
+        "members": [
+            "MODERN",
+            "SALSA",
+            "SWING",
+            "TAP"
+        ]
+    },
+    {
+        "group": "PARTS OF AN AIRPLANE",
+        "members": [
+            "CABIN",
+            "ENGINE",
+            "NOSE",
+            "WING"
+        ]
+    },
+    {
+        "group": "RUBBER STAMP WORDS",
+        "members": [
+            "APPROVED",
+            "PAID",
+            "URGENT",
+            "VOID"
+        ]
+    },
+    {
+        "group": "SYMBOLS ABOVE NUMBERS ON A KEYBOARD",
+        "members": [
+            "AT",
+            "DOLLAR",
+            "PERCENT",
+            "POUND"
+        ]
+    },
+    {
+        "group": "FAMILIAL NICKNAMES",
+        "members": [
+            "DADA",
+            "GRAMMY",
+            "MUM",
+            "POPPY"
+        ]
+    },
+    {
+        "group": "IMPOSE, AS A PENALTY",
+        "members": [
+            "ASSESS",
+            "CHARGE",
+            "FINE",
+            "LEVY"
+        ]
+    },
+    {
+        "group": "ORIGINAL MONOPOLY TOKENS",
+        "members": [
+            "BOOT",
+            "IRON",
+            "THIMBLE",
+            "TOP HAT"
+        ]
+    },
+    {
+        "group": "SOUGHT AFTER IN “THE WIZARD OF OZ”",
+        "members": [
+            "BRAIN",
+            "COURAGE",
+            "HEART",
+            "HOME"
+        ]
+    },
+    {
+        "group": "MODIFIERS MEANING “SMALL”",
+        "members": [
+            "BABY",
+            "MINI",
+            "POCKET",
+            "TOY"
+        ]
+    },
+    {
+        "group": "TENNIS SCORING TERMS",
+        "members": [
+            "AD",
+            "ALL",
+            "DEUCE",
+            "LOVE"
+        ]
+    },
+    {
+        "group": "CRESCENT-SHAPED THINGS",
+        "members": [
+            "BANANA",
+            "CROISSANT",
+            "MOON",
+            "SICKLE"
+        ]
+    },
+    {
+        "group": "RHYMES",
+        "members": [
+            "CHOIR",
+            "FIRE",
+            "LIAR",
+            "FRYER"
+        ]
+    },
+    {
+        "group": "ENTHUSIAST",
+        "members": [
+            "BUFF",
+            "FAN",
+            "LOVER",
+            "NUT"
+        ]
+    },
+    {
+        "group": "HOMOPHONES",
+        "members": [
+            "HOLEY",
+            "HOLI",
+            "HOLY",
+            "WHOLLY"
+        ]
+    },
+    {
+        "group": "CLASSIC DOG NAMES",
+        "members": [
+            "FLUFFY",
+            "REX",
+            "ROVER",
+            "SPOT"
+        ]
+    },
+    {
+        "group": "COMEDIAN’S PERFORMANCE",
+        "members": [
+            "ACT",
+            "BIT",
+            "ROUTINE",
+            "SET"
+        ]
+    },
+    {
+        "group": "ROCK & ROLL HALL OF FAME INDUCTEES",
+        "members": [
+            "HEART",
+            "MADONNA",
+            "PRINCE",
+            "QUEEN"
+        ]
+    },
+    {
+        "group": "KINDS OF BLOND",
+        "members": [
+            "DIRTY",
+            "HONEY",
+            "PLATINUM",
+            "STRAWBERRY"
+        ]
+    },
+    {
+        "group": "BOXING MANEUVERS",
+        "members": [
+            "BOB",
+            "CROSS",
+            "HOOK",
+            "WEAVE"
+        ]
+    },
+    {
+        "group": "WALLOP",
+        "members": [
+            "BELT",
+            "CLOCK",
+            "DECK",
+            "SLUG"
+        ]
+    },
+    {
+        "group": "THINGS YOU CAN DRAW",
+        "members": [
+            "BATH",
+            "CARD",
+            "CURTAIN",
+            "PICTURE"
+        ]
+    },
+    {
+        "group": "YOGA POSES",
+        "members": [
+            "CAT",
+            "COW",
+            "MOUNTAIN",
+            "TRIANGLE"
+        ]
+    },
+    {
+        "group": "CAPTAINS",
+        "members": [
+            "AMERICA",
+            "HOOK",
+            "MORGAN",
+            "NEMO"
+        ]
+    },
+    {
+        "group": "SEEN IN “ALADDIN”",
+        "members": [
+            "GENIE",
+            "MONKEY",
+            "PARROT",
+            "PRINCESS"
+        ]
+    },
+    {
+        "group": "GROCERY STORE AISLES",
+        "members": [
+            "DAIRY",
+            "FROZEN",
+            "PRODUCE",
+            "SNACK"
+        ]
+    },
+    {
+        "group": "SAUCES IN CHINESE CUISINE",
+        "members": [
+            "OYSTER",
+            "PLUM",
+            "SOY",
+            "XO"
+        ]
+    },
+    {
+        "group": "OVEN BUTTONS",
+        "members": [
+            "BAKE",
+            "BROIL",
+            "LIGHT",
+            "TIMER"
+        ]
+    },
+    {
+        "group": "PROGRAMMING LANGUAGES",
+        "members": [
+            "BASIC",
+            "JAVA",
+            "PYTHON",
+            "RUBY"
+        ]
+    },
+    {
+        "group": "NOUN SUFFIXES",
+        "members": [
+            "DOM",
+            "ION",
+            "NESS",
+            "SHIP"
+        ]
+    },
+    {
+        "group": "INGREDIENTS IN MINESTRONE",
+        "members": [
+            "BEANS",
+            "PASTA",
+            "STOCK",
+            "VEGETABLES"
+        ]
+    },
+    {
+        "group": "WORKSHOP TOOLS",
+        "members": [
+            "DRILL",
+            "GRINDER",
+            "ROUTER",
+            "SAW"
+        ]
+    },
+    {
+        "group": "BIT OF LIQUID",
+        "members": [
+            "BEAD",
+            "DROP",
+            "GLOB",
+            "TEAR"
+        ]
+    },
+    {
+        "group": "THEY HAVE KEYS",
+        "members": [
+            "COMPUTER",
+            "PIANO",
+            "SUPER",
+            "TESTS"
+        ]
+    },
+    {
+        "group": "ORIGIN",
+        "members": [
+            "CRADLE",
+            "FONT",
+            "ROOT",
+            "SOURCE"
+        ]
+    },
+    {
+        "group": "WHAT “BLUE” MIGHT MEAN",
+        "members": [
+            "DEMOCRATIC",
+            "EROTIC",
+            "NOBLE",
+            "SAD"
+        ]
+    },
+    {
+        "group": "PARTS OF FRUIT YOU MIGHT NOT EAT",
+        "members": [
+            "CORE",
+            "RIND",
+            "SEED",
+            "STEM"
+        ]
+    },
+    {
+        "group": "FENCING EQUIPMENT",
+        "members": [
+            "FOIL",
+            "GLOVE",
+            "JACKET",
+            "MASK"
+        ]
+    },
+    {
+        "group": "ILK",
+        "members": [
+            "KIND",
+            "SORT",
+            "TYPE",
+            "VARIETY"
+        ]
+    },
+    {
+        "group": "KINDS OF CRACKERS",
+        "members": [
+            "ANIMAL",
+            "GOLDFISH",
+            "OYSTER",
+            "RITZ"
+        ]
+    },
+    {
+        "group": "KINDS OF HEELS",
+        "members": [
+            "CUBAN",
+            "KITTEN",
+            "STILETTO",
+            "WEDGE"
+        ]
+    },
+    {
+        "group": "PERIOD",
+        "members": [
+            "AGE",
+            "DAY",
+            "ERA",
+            "TIME"
+        ]
+    },
+    {
+        "group": "DISNEYLAND LANDS",
+        "members": [
+            "ADVENTURE",
+            "FANTASY",
+            "FRONTIER",
+            "TOMORROW"
+        ]
+    },
+    {
+        "group": "EXPRESS INDIRECTLY",
+        "members": [
+            "COUCH",
+            "IMPLY",
+            "INTIMATE",
+            "SUGGEST"
+        ]
+    },
+    {
+        "group": "WAYS TO GET ATTENTION",
+        "members": [
+            "SHOUT",
+            "SNAP",
+            "WAVE",
+            "WHISTLE"
+        ]
+    },
+    {
+        "group": "SEEN DURING EASTER",
+        "members": [
+            "BUNNY",
+            "EGG",
+            "JELLY BEAN",
+            "PEEP"
+        ]
+    },
+    {
+        "group": "UNLIKELY, AS CHANCES",
+        "members": [
+            "OUTSIDE",
+            "REMOTE",
+            "SLIM",
+            "SMALL"
+        ]
+    },
+    {
+        "group": "THINGS A JUGGLER JUGGLES",
+        "members": [
+            "BEANBAG",
+            "CLUB",
+            "RING",
+            "TORCH"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH “STUB”",
+        "members": [
+            "CIGARETTE",
+            "PENCIL",
+            "TICKET",
+            "TOE"
+        ]
+    },
+    {
+        "group": "SHARP QUALITY",
+        "members": [
+            "BITE",
+            "EDGE",
+            "PUNCH",
+            "SPICE"
+        ]
+    },
+    {
+        "group": "UNIVERSAL",
+        "members": [
+            "BLANKET",
+            "BROAD",
+            "GENERAL",
+            "SWEEPING"
+        ]
+    },
+    {
+        "group": "MAC KEYBOARD KEYS",
+        "members": [
+            "COMMAND",
+            "CONTROL",
+            "OPTION",
+            "SHIFT"
+        ]
+    },
+    {
+        "group": "THINGS IN A SPA LOCKER ROOM",
+        "members": [
+            "ROBE",
+            "SLIPPERS",
+            "TOWEL",
+            "WASHCLOTH"
+        ]
+    },
+    {
+        "group": "DOG BREEDS, INFORMALLY",
+        "members": [
+            "BOSTON",
+            "GOLDEN",
+            "LAB",
+            "PIT"
+        ]
+    },
+    {
+        "group": "FOOD SLANG FOR HEAD",
+        "members": [
+            "BEAN",
+            "MELON",
+            "NOODLE",
+            "NUT"
+        ]
+    },
+    {
+        "group": "HOMOPHONES OF GREEK LETTERS",
+        "members": [
+            "MOO",
+            "NEW",
+            "PIE",
+            "ROW"
+        ]
+    },
+    {
+        "group": "ALIBI",
+        "members": [
+            "DEFENSE",
+            "EXCUSE",
+            "OUT",
+            "REASON"
+        ]
+    },
+    {
+        "group": "EXAMINE, AS AN APPLICANT",
+        "members": [
+            "CHECK",
+            "REVIEW",
+            "SCREEN",
+            "VET"
+        ]
+    },
+    {
+        "group": "THINGS THAT MIGHT STINK",
+        "members": [
+            "CHEESE",
+            "FEET",
+            "GARBAGE",
+            "SKUNK"
+        ]
+    },
+    {
+        "group": "SPIRALS IN NATURE",
+        "members": [
+            "CYCLONE",
+            "GALAXY",
+            "SNAIL",
+            "SUNFLOWER"
+        ]
+    },
+    {
+        "group": "FAMOUS GUITARISTS",
+        "members": [
+            "BERRY",
+            "KING",
+            "PAGE",
+            "WATERS"
+        ]
+    },
+    {
+        "group": "ITALIAN DEMONYMS",
+        "members": [
+            "BOLOGNESE",
+            "NEAPOLITAN",
+            "PARMESAN",
+            "VENETIAN"
+        ]
+    },
+    {
+        "group": "PALINDROMES",
+        "members": [
+            "BIB",
+            "EYE",
+            "GAG",
+            "POP"
+        ]
+    },
+    {
+        "group": "OLYMPIC SPORTS",
+        "members": [
+            "BREAKING",
+            "HOCKEY",
+            "SKELETON",
+            "TRAMPOLINE"
+        ]
+    },
+    {
+        "group": "PURSUE",
+        "members": [
+            "CHASE",
+            "TAIL",
+            "TRACK",
+            "SHADOW"
+        ]
+    },
+    {
+        "group": "DECISIVE VICTORY",
+        "members": [
+            "BLOWOUT",
+            "ROMP",
+            "ROUT",
+            "SWEEP"
+        ]
+    },
+    {
+        "group": "N.B.A. TEAM PLAYER",
+        "members": [
+            "CLIPPER",
+            "PACER",
+            "ROCKET",
+            "SPUR"
+        ]
+    },
+    {
+        "group": "BRING UP",
+        "members": [
+            "FOSTER",
+            "NURSE",
+            "RAISE",
+            "REAR"
+        ]
+    },
+    {
+        "group": "GAMES OF CHANCE",
+        "members": [
+            "BINGO",
+            "LOTTERY",
+            "ROULETTE",
+            "WAR"
+        ]
+    },
+    {
+        "group": "KINDS OF WHALES",
+        "members": [
+            "BLUE",
+            "FIN",
+            "GRAY",
+            "RIGHT"
+        ]
+    },
+    {
+        "group": "KINDS OF BLUE",
+        "members": [
+            "BABY",
+            "NAVY",
+            "SKY",
+            "TIFFANY"
+        ]
+    },
+    {
+        "group": "PREDICAMENTS",
+        "members": [
+            "BINDS",
+            "JAMS",
+            "PICKLES",
+            "SPOTS"
+        ]
+    },
+    {
+        "group": "THINGS THAT ARE CINCHED IN THE MIDDLE",
+        "members": [
+            "CORSET",
+            "DIABOLO",
+            "HOURGLASS",
+            "WASP"
+        ]
+    },
+    {
+        "group": "HORROR MOVIES",
+        "members": [
+            "👽",
+            "🧛",
+            "🪚",
+            "😱"
+        ]
+    },
+    {
+        "group": "SEEN IN “CINDERELLA”",
+        "members": [
+            "BALL",
+            "PRINCE",
+            "PUMPKIN",
+            "SLIPPER"
+        ]
+    },
+    {
+        "group": "SKIN TYPES",
+        "members": [
+            "COMBINATION",
+            "DRY",
+            "NORMAL",
+            "OILY"
+        ]
+    },
+    {
+        "group": "THROWN IN TARGET GAMES",
+        "members": [
+            "AXE",
+            "DART",
+            "HORSESHOE",
+            "RING"
+        ]
+    },
+    {
+        "group": "WINE TASTING DESCRIPTORS",
+        "members": [
+            "BALANCED",
+            "DRY",
+            "FULL",
+            "SWEET"
+        ]
+    },
+    {
+        "group": "COLLECTION",
+        "members": [
+            "ARRAY",
+            "BATTERY",
+            "SET",
+            "SERIES"
+        ]
+    },
+    {
+        "group": "FOUND IN CRACKER JACKS",
+        "members": [
+            "CARAMEL",
+            "PEANUTS",
+            "POPCORN",
+            "PRIZE"
+        ]
+    },
+    {
+        "group": "SLANG FOR ZERO",
+        "members": [
+            "JACK",
+            "LOVE",
+            "SQUAT",
+            "ZIP"
+        ]
+    },
+    {
+        "group": "HERALDRY TERMS",
+        "members": [
+            "ARMS",
+            "COAT",
+            "CREST",
+            "SHIELD"
+        ]
+    },
+    {
+        "group": "WORDS BEFORE “NUT”",
+        "members": [
+            "CHEST",
+            "COCO",
+            "HAZEL",
+            "PEA"
+        ]
+    },
+    {
+        "group": "WATER AND GAS CONDUITS",
+        "members": [
+            "CHANNEL",
+            "LINE",
+            "MAIN",
+            "PIPE"
+        ]
+    },
+    {
+        "group": "BECOME LARGER",
+        "members": [
+            "BALLOON",
+            "MUSHROOM",
+            "SNOWBALL",
+            "SWELL"
+        ]
+    },
+    {
+        "group": "FILM DEPARTMENTS",
+        "members": [
+            "HAIR",
+            "MAKEUP",
+            "PROPS",
+            "WARDROBE"
+        ]
+    },
+    {
+        "group": "U.S.-BASED AIRLINES",
+        "members": [
+            "AMERICAN",
+            "FRONTIER",
+            "SPIRIT",
+            "UNITED"
+        ]
+    },
+    {
+        "group": "SUPERFICIAL",
+        "members": [
+            "COSMETIC",
+            "EXTERNAL",
+            "SHALLOW",
+            "SURFACE"
+        ]
+    },
+    {
+        "group": "ON THE SAME PLANE",
+        "members": [
+            "EVEN",
+            "FLAT",
+            "FLUSH",
+            "LEVEL"
+        ]
+    },
+    {
+        "group": "ALLOTMENT",
+        "members": [
+            "INTEREST",
+            "PERCENTAGE",
+            "SHARE",
+            "STAKE"
+        ]
+    },
+    {
+        "group": "UNIT ABBREVIATIONS",
+        "members": [
+            "CAL",
+            "GAL",
+            "IN",
+            "OZ"
+        ]
+    },
+    {
+        "group": "DIAMOND QUALITIES",
+        "members": [
+            "CARAT",
+            "CLARITY",
+            "COLOR",
+            "CUT"
+        ]
+    },
+    {
+        "group": "PARTS OF A DEVIL COSTUME",
+        "members": [
+            "GOATEE",
+            "HORNS",
+            "PITCHFORK",
+            "TAIL"
+        ]
+    },
+    {
+        "group": "STARTING WITH THE SAME SOUND",
+        "members": [
+            "CYMBAL",
+            "SCIMITAR",
+            "SIMMER",
+            "SYMPHONY"
+        ]
+    },
+    {
+        "group": "STUBBLE",
+        "members": [
+            "FUZZ",
+            "SCRUFF",
+            "SHADOW",
+            "WHISKERS"
+        ]
+    },
+    {
+        "group": "SEAS",
+        "members": [
+            "BALTIC",
+            "BLACK",
+            "PHILIPPINE",
+            "RED"
+        ]
+    },
+    {
+        "group": "KINDS OF SKIRTS",
+        "members": [
+            "MINI",
+            "PENCIL",
+            "POODLE",
+            "WRAP"
+        ]
+    },
+    {
+        "group": "SPREADSHEET TERMS",
+        "members": [
+            "CELL",
+            "FORMULA",
+            "SHEET",
+            "SORT"
+        ]
+    },
+    {
+        "group": "EMOTIONALLY SWAY ",
+        "members": [
+            "AFFECT",
+            "IMPACT",
+            "MOVE",
+            "TOUCH"
+        ]
+    },
+    {
+        "group": "SUMMARY",
+        "members": [
+            "ABSTRACT",
+            "BRIEF",
+            "DIGEST",
+            "OUTLINE"
+        ]
+    },
+    {
+        "group": "ANALOG TV INTERFERENCE",
+        "members": [
+            "FUZZ",
+            "NOISE",
+            "SNOW",
+            "STATIC"
+        ]
+    },
+    {
+        "group": "LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE",
+        "members": [
+            "CARTER",
+            "GORE",
+            "KING",
+            "TUTU"
+        ]
+    },
+    {
+        "group": "TRANSACTION RECORD",
+        "members": [
+            "BILL",
+            "INVOICE",
+            "RECEIPT",
+            "STATEMENT"
+        ]
+    },
+    {
+        "group": "WEB BROWSER MENUS",
+        "members": [
+            "FILE",
+            "HISTORY",
+            "VIEW",
+            "WINDOW"
+        ]
+    },
+    {
+        "group": "JOAQUIN PHOENIX MOVIES",
+        "members": [
+            "GLADIATOR",
+            "HER",
+            "JOKER",
+            "SIGNS"
+        ]
+    },
+    {
+        "group": "UNITS OF LENGTH",
+        "members": [
+            "FATHOM",
+            "FOOT",
+            "LEAGUE",
+            "YARD"
+        ]
+    },
+    {
+        "group": "COMPONENTS OF A LOCK",
+        "members": [
+            "CYLINDER",
+            "PIN",
+            "SPRING",
+            "TUMBLER"
+        ]
+    },
+    {
+        "group": "CONTRIBUTE TO A MOVIE",
+        "members": [
+            "ACT",
+            "DIRECT",
+            "PRODUCE",
+            "WRITE"
+        ]
+    },
+    {
+        "group": "QUANTITY WORDS",
+        "members": [
+            "FEW",
+            "MANY",
+            "SEVERAL",
+            "SOME"
+        ]
+    },
+    {
+        "group": "KEEP RHYTHM WITH MUSIC",
+        "members": [
+            "BOB",
+            "CLAP",
+            "SNAP",
+            "TAP"
+        ]
+    },
+    {
+        "group": "CHOICEST",
+        "members": [
+            "BEST",
+            "CREAM",
+            "PICK",
+            "TOP"
+        ]
+    },
+    {
+        "group": "REGULATE",
+        "members": [
+            "CHECK",
+            "CONTAIN",
+            "CURB",
+            "LIMIT"
+        ]
+    },
+    {
+        "group": "THINGS THAT SPIN",
+        "members": [
+            "CAROUSEL",
+            "GLOBE",
+            "RECORD",
+            "TOP"
+        ]
+    },
+    {
+        "group": "SATIRICAL PUBLICATIONS, FAMILIARLY",
+        "members": [
+            "CRACKED",
+            "LAMPOON",
+            "MAD",
+            "ONION"
+        ]
+    },
+    {
+        "group": "ACRONYMS",
+        "members": [
+            "MIA",
+            "OMG",
+            "PIN",
+            "RAM"
+        ]
+    },
+    {
+        "group": "LOONEY TUNES FIGURES",
+        "members": [
+            "BUNNY",
+            "DUCK",
+            "MARTIAN",
+            "PIG"
+        ]
+    },
+    {
+        "group": "SPANISH PRONOUNS",
+        "members": [
+            "ELLA",
+            "ME",
+            "SUS",
+            "YO"
+        ]
+    },
+    {
+        "group": "FORTHRIGHT",
+        "members": [
+            "DIRECT",
+            "FRANK",
+            "OPEN",
+            "STRAIGHT"
+        ]
+    },
+    {
+        "group": "MOVE IN AN EFFORTLESS WAY",
+        "members": [
+            "BREEZE",
+            "COAST",
+            "GLIDE",
+            "SAIL"
+        ]
+    },
+    {
+        "group": "CLASSIC STILL LIFE COMPONENTS",
+        "members": [
+            "FRUIT",
+            "PITCHER",
+            "SKULL",
+            "TABLECLOTH"
+        ]
+    },
+    {
+        "group": "CLASSIC PARTY GAMES",
+        "members": [
+            "CATEGORIES",
+            "CHARADES",
+            "FISHBOWL",
+            "WEREWOLF"
+        ]
+    },
+    {
+        "group": "OLD-FASHIONED",
+        "members": [
+            "SQUARE",
+            "STRAIGHT",
+            "STUFFY",
+            "TRADITIONAL"
+        ]
+    },
+    {
+        "group": "CLASSIC SUPERHERO WEAR",
+        "members": [
+            "CAPE",
+            "MASK",
+            "TIGHTS",
+            "UNDERWEAR"
+        ]
+    },
+    {
+        "group": "BILLIARDS EQUIPMENT",
+        "members": [
+            "BALL",
+            "CHALK",
+            "CUE",
+            "RACK"
+        ]
+    },
+    {
+        "group": "REMOVES THE COVERING OF",
+        "members": [
+            "PARES",
+            "PEELS",
+            "SHELLS",
+            "SHUCKS"
+        ]
+    },
+    {
+        "group": "NEWSPAPER DESKS",
+        "members": [
+            "CITY",
+            "COPY",
+            "CULTURE",
+            "SPORTS"
+        ]
+    },
+    {
+        "group": "THINGS TO CRACK",
+        "members": [
+            "EGG",
+            "KNUCKLES",
+            "SMILE",
+            "WINDOW"
+        ]
+    },
+    {
+        "group": "ADVOCATE FOR",
+        "members": [
+            "BACK",
+            "CHAMPION",
+            "ENDORSE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "group": "DEPOSIT, WITH “DOWN”",
+        "members": [
+            "LAY",
+            "PLACE",
+            "PUT",
+            "SET"
+        ]
+    },
+    {
+        "group": "KINDS OF NOTES",
+        "members": [
+            "FLAT",
+            "NATURAL",
+            "QUARTER",
+            "WHOLE"
+        ]
+    },
+    {
+        "group": "SPELLING BEE RANKS",
+        "members": [
+            "AMAZING",
+            "BEGINNER",
+            "GENIUS",
+            "SOLID"
+        ]
+    },
+    {
+        "group": "INTIMIDATE",
+        "members": [
+            "BULLY",
+            "COW",
+            "DAUNT",
+            "RATTLE"
+        ]
+    },
+    {
+        "group": "HAIRSTYLES",
+        "members": [
+            "BOB",
+            "CROP",
+            "FADE",
+            "SHAG"
+        ]
+    },
+    {
+        "group": "COMPONENTS OF AN LP",
+        "members": [
+            "INSERT",
+            "JACKET",
+            "RECORD",
+            "SLEEVE"
+        ]
+    },
+    {
+        "group": "DUMBBELL EXERCISES",
+        "members": [
+            "CURL",
+            "FLY",
+            "PRESS",
+            "ROW"
+        ]
+    },
+    {
+        "group": "U.S. CITIES",
+        "members": [
+            "BILLINGS",
+            "BUFFALO",
+            "MOBILE",
+            "PHOENIX"
+        ]
+    },
+    {
+        "group": "THINGS MADE OF CELLS",
+        "members": [
+            "HONEYCOMB",
+            "ORGANISM",
+            "SOLAR PANEL",
+            "SPREADSHEET"
+        ]
+    },
+    {
+        "group": "FOUND ON A SHIP",
+        "members": [
+            "BRIDGE",
+            "DECK",
+            "HATCH",
+            "KEEL"
+        ]
+    },
+    {
+        "group": "GIST",
+        "members": [
+            "DRIFT",
+            "IDEA",
+            "MESSAGE",
+            "POINT"
+        ]
+    },
+    {
+        "group": "HAIL SIZE COMPARISONS",
+        "members": [
+            "BASEBALL",
+            "GRAPEFRUIT",
+            "MARBLE",
+            "PEA"
+        ]
+    },
+    {
+        "group": "REMOVE, AS CRUMBS",
+        "members": [
+            "BRUSH",
+            "FLICK",
+            "SWEEP",
+            "WIPE"
+        ]
+    },
+    {
+        "group": "ANAGRAMS",
+        "members": [
+            "PASTEL",
+            "PETALS",
+            "PLEATS",
+            "STAPLE"
+        ]
+    },
+    {
+        "group": "THINGS WITH LAYERS",
+        "members": [
+            "CAKE",
+            "EARTH",
+            "ONION",
+            "PLYWOOD"
+        ]
+    },
+    {
+        "group": "SYMBOLS USED IN MAKING LISTS",
+        "members": [
+            "ARROW",
+            "BULLET",
+            "CHECKBOX",
+            "HYPHEN"
+        ]
+    },
+    {
+        "group": "MUSIC GENRES",
+        "members": [
+            "DUB",
+            "EMO",
+            "POP",
+            "TRAP"
+        ]
+    },
+    {
+        "group": "ENDING IN UNITS OF MEASUREMENT",
+        "members": [
+            "HEDWIG AND THE ANGRY INCH",
+            "MY LEFT FOOT",
+            "THE GREEN MILE",
+            "THE LONGEST YARD"
+        ]
+    },
+    {
+        "group": "CAMPAIGN SWAG",
+        "members": [
+            "BUTTON",
+            "HAT",
+            "SHIRT",
+            "STICKER"
+        ]
+    },
+    {
+        "group": "NATO PHONETIC ALPHABET",
+        "members": [
+            "FOXTROT",
+            "HOTEL",
+            "VICTOR",
+            "YANKEE"
+        ]
+    },
+    {
+        "group": "QUALITIES OF THICK HAIR",
+        "members": [
+            "BODY",
+            "BOUNCE",
+            "LIFT",
+            "VOLUME"
+        ]
+    },
+    {
+        "group": "CLASSIC LAWN ORNAMENTS",
+        "members": [
+            "FLAMINGO",
+            "FOUNTAIN",
+            "GNOME",
+            "PINWHEEL"
+        ]
+    },
+    {
+        "group": "PREDICAMENT",
+        "members": [
+            "CORNER",
+            "FIX",
+            "HOLE",
+            "SPOT"
+        ]
+    },
+    {
+        "group": "DRINK GARNISHES",
+        "members": [
+            "CHERRY",
+            "OLIVE",
+            "SWORD",
+            "UMBRELLA"
+        ]
+    },
+    {
+        "group": "MULTITUDE",
+        "members": [
+            "DROVE",
+            "HOST",
+            "PACK",
+            "SEA"
+        ]
+    },
+    {
+        "group": "HAIR SALON FIXTURES",
+        "members": [
+            "CHAIR",
+            "DRYER",
+            "MIRROR",
+            "SINK"
+        ]
+    },
+    {
+        "group": "TYPES OF COME-FROM-BEHIND STORIES",
+        "members": [
+            "CINDERELLA",
+            "DAVID-AND-GOLIATH",
+            "RAGS-TO-RICHES",
+            "UNDERDOG"
+        ]
+    },
+    {
+        "group": "HORROR MOVIES, WITH “THE”",
+        "members": [
+            "BIRDS",
+            "FOG",
+            "OMEN",
+            "RING"
+        ]
+    },
+    {
+        "group": "WHAT HUMPBACK WHALES DO",
+        "members": [
+            "BREACH",
+            "DIVE",
+            "SING",
+            "SPOUT"
+        ]
+    },
+    {
+        "group": "ANIMAL HOMOPHONES",
+        "members": [
+            "BARE",
+            "DEAR",
+            "MOUSSE",
+            "NEW"
+        ]
+    },
+    {
+        "group": "SILENT “K”",
+        "members": [
+            "DOORKNOB",
+            "KNIFE",
+            "TOPKNOT",
+            "UNKNOWN"
+        ]
+    },
+    {
+        "group": "CONSUMER DESIRE, COLLECTIVELY",
+        "members": [
+            "APPETITE",
+            "AUDIENCE",
+            "DEMAND",
+            "MARKET"
+        ]
+    },
+    {
+        "group": "GROUP WITHIN A GROUP",
+        "members": [
+            "CAMP",
+            "PARTY",
+            "SIDE",
+            "WING"
+        ]
+    },
+    {
+        "group": "INDICATION TO PROCEED",
+        "members": [
+            "CUE",
+            "PROMPT",
+            "SIGNAL",
+            "WORD"
+        ]
+    },
+    {
+        "group": "PLACED DOWN",
+        "members": [
+            "LAID",
+            "PLACED",
+            "PUT",
+            "SAT"
+        ]
+    },
+    {
+        "group": "TREES",
+        "members": [
+            "ASH",
+            "CHERRY",
+            "EBONY",
+            "GUM"
+        ]
+    },
+    {
+        "group": "SEEN ON A U.S. DOLLAR BILL",
+        "members": [
+            "EAGLE",
+            "PYRAMID",
+            "SEAL",
+            "WASHINGTON"
+        ]
+    },
+    {
+        "group": "LATIN WORDS",
+        "members": [
+            "CAVEAT",
+            "ERGO",
+            "QUID",
+            "VOX"
+        ]
+    },
+    {
+        "group": "KINDS OF CAKE",
+        "members": [
+            "BIRTHDAY",
+            "CRUMB",
+            "MARBLE",
+            "POUND"
+        ]
+    },
+    {
+        "group": "SINGLE ROTATION",
+        "members": [
+            "CYCLE",
+            "LAP",
+            "TURN",
+            "REVOLUTION"
+        ]
+    },
+    {
+        "group": "CHARACTERS IN BOND MOVIES",
+        "members": [
+            "BOND",
+            "M",
+            "MONEYPENNY",
+            "Q"
+        ]
+    },
+    {
+        "group": "OBJECTS PLAYED AS INSTRUMENTS",
+        "members": [
+            "JUG",
+            "SAW",
+            "SPOONS",
+            "WASHBOARD"
+        ]
+    },
+    {
+        "group": "SLANGY NAMES FOR PROFESSIONS",
+        "members": [
+            "COPPER",
+            "HACK",
+            "SHRINK",
+            "SUIT"
+        ]
+    },
+    {
+        "group": "SPEND TIME AT",
+        "members": [
+            "FREQUENT",
+            "HAUNT",
+            "PATRONIZE",
+            "VISIT"
+        ]
+    },
+    {
+        "group": "TV SHOWS MINUS “S”",
+        "members": [
+            "CHEER",
+            "FRIEND",
+            "SCRUB",
+            "WEED"
+        ]
+    },
+    {
+        "group": "FISH",
+        "members": [
+            "BASS",
+            "FLUKE",
+            "PERCH",
+            "PIKE"
+        ]
+    },
+    {
+        "group": "TRANSFER",
+        "members": [
+            "GIVE",
+            "HAND",
+            "PASS",
+            "SEND"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH “DOVE”",
+        "members": [
+            "CHOCOLATE",
+            "PEACE",
+            "PIGEON",
+            "SOAP"
+        ]
+    },
+    {
+        "group": "COME ACROSS AS",
+        "members": [
+            "APPEAR",
+            "LOOK",
+            "SEEM",
+            "SOUND"
+        ]
+    },
+    {
+        "group": "PROFESSION",
+        "members": [
+            "BUSINESS",
+            "FIELD",
+            "LINE",
+            "TRADE"
+        ]
+    },
+    {
+        "group": "WAYS TO SECURE A TV",
+        "members": [
+            "BASE",
+            "BRACKET",
+            "MOUNT",
+            "STAND"
+        ]
+    },
+    {
+        "group": "STARTS OF BROADWAY MUSICALS",
+        "members": [
+            "FIDDLER",
+            "JERSEY",
+            "KINKY",
+            "MERRILY"
+        ]
+    },
+    {
+        "group": "ANIMAL GROUP NAMES",
+        "members": [
+            "PACK",
+            "PRIDE",
+            "SCHOOL",
+            "SWARM"
+        ]
+    },
+    {
+        "group": "GLITZINESS",
+        "members": [
+            "DAZZLE",
+            "FLASH",
+            "POMP",
+            "RITZ"
+        ]
+    },
+    {
+        "group": "GAS PUMP OPTIONS",
+        "members": [
+            "DIESEL",
+            "PLUS",
+            "PREMIUM",
+            "REGULAR"
+        ]
+    },
+    {
+        "group": "ENERGY FOR AN ELECTRONIC DEVICE",
+        "members": [
+            "BATTERY",
+            "CHARGE",
+            "JUICE",
+            "POWER"
+        ]
+    },
+    {
+        "group": "CARPENTRY TOOLS",
+        "members": [
+            "CLAMP",
+            "FILE",
+            "LEVEL",
+            "SAW"
+        ]
+    },
+    {
+        "group": "USED TO REDIRECT TRAFFIC",
+        "members": [
+            "BARRIER",
+            "CONE",
+            "FLAG",
+            "FLARE"
+        ]
+    },
+    {
+        "group": "ONE WHO LIKES SHOWING OFF",
+        "members": [
+            "HAM",
+            "HOT DOG",
+            "PEACOCK",
+            "SHOWBOAT"
+        ]
+    },
+    {
+        "group": "BABY ANIMALS",
+        "members": [
+            "CALF",
+            "CUB",
+            "FAWN",
+            "KIT"
+        ]
+    },
+    {
+        "group": "NATURAL ABILITY",
+        "members": [
+            "FACULTY",
+            "FLAIR",
+            "INSTINCT",
+            "TALENT"
+        ]
+    },
+    {
+        "group": "DRAWBACK",
+        "members": [
+            "CON",
+            "DING",
+            "MINUS",
+            "STRIKE"
+        ]
+    },
+    {
+        "group": "HOTTIE",
+        "members": [
+            "BABE",
+            "FOX",
+            "SNACK",
+            "TEN"
+        ]
+    },
+    {
+        "group": "NERVOUSNESS, IN THE SINGULAR",
+        "members": [
+            "BUTTERFLY",
+            "JITTER",
+            "NERVE",
+            "WILLY"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH SCALES",
+        "members": [
+            "FISH",
+            "JUSTICE",
+            "LIBRA",
+            "SOLFEGE"
+        ]
+    },
+    {
+        "group": "ABILITY TO DO SOMETHING WELL",
+        "members": [
+            "FACILITY",
+            "FLAIR",
+            "GIFT",
+            "KNACK"
+        ]
+    },
+    {
+        "group": "ALE STYLES",
+        "members": [
+            "AMBER",
+            "PORTER",
+            "SOUR",
+            "STOUT"
+        ]
+    },
+    {
+        "group": "BOOKSTORE SECTIONS",
+        "members": [
+            "FICTION",
+            "HUMOR",
+            "ROMANCE",
+            "TRAVEL"
+        ]
+    },
+    {
+        "group": "ADJECTIVES USED IN GRAMMAR",
+        "members": [
+            "DIRECT",
+            "IRREGULAR",
+            "POSSESSIVE",
+            "PRESENT"
+        ]
+    },
+    {
+        "group": "NONSENSE",
+        "members": [
+            "BALONEY",
+            "BULL",
+            "BUNK",
+            "TRIPE"
+        ]
+    },
+    {
+        "group": "BEGINNING WITH DOUBLE LETTERS",
+        "members": [
+            "AARDVARK",
+            "EERIE",
+            "LLAMA",
+            "OOZE"
+        ]
+    },
+    {
+        "group": "ARE WE CLEAR?",
+        "members": [
+            "CAPISCE",
+            "GET IT",
+            "SEE",
+            "UNDERSTAND"
+        ]
+    },
+    {
+        "group": "TAKE ISSUE",
+        "members": [
+            "DISAPPROVE",
+            "MIND",
+            "OBJECT",
+            "PROTEST"
+        ]
+    },
+    {
+        "group": "ELECTROMAGNETIC SPECTRUM",
+        "members": [
+            "MICROWAVE",
+            "RADIO",
+            "VISIBLE",
+            "X-RAY"
+        ]
+    },
+    {
+        "group": "MAINSTAY",
+        "members": [
+            "ANCHOR",
+            "BACKBONE",
+            "CORNERSTONE",
+            "PILLAR"
+        ]
+    },
+    {
+        "group": "ROCK GENRES",
+        "members": [
+            "GLAM",
+            "GOTH",
+            "METAL",
+            "PUNK"
+        ]
+    },
+    {
+        "group": "MICROSOFT PRODUCTS",
+        "members": [
+            "EDGE",
+            "OFFICE",
+            "TEAMS",
+            "WINDOWS"
+        ]
+    },
+    {
+        "group": "REGARDING",
+        "members": [
+            "ABOUT",
+            "CONCERNING",
+            "ON",
+            "TOWARD"
+        ]
+    },
+    {
+        "group": "SLANG FOR TOILET",
+        "members": [
+            "CAN",
+            "HEAD",
+            "JOHN",
+            "THRONE"
+        ]
+    },
+    {
+        "group": "OBVIOUS",
+        "members": [
+            "CLEAR",
+            "MARKED",
+            "PRONOUNCED",
+            "STRIKING"
+        ]
+    },
+    {
+        "group": "THINGS BEES DO",
+        "members": [
+            "BUZZ",
+            "DANCE",
+            "POLLINATE",
+            "STING"
+        ]
+    },
+    {
+        "group": "BEERS, FAMILIARLY",
+        "members": [
+            "BUD",
+            "NATTY",
+            "SIERRA",
+            "STELLA"
+        ]
+    },
+    {
+        "group": "KINDS OF BOOTS",
+        "members": [
+            "ANKLE",
+            "COWBOY",
+            "GO-GO",
+            "THIGH-HIGH"
+        ]
+    },
+    {
+        "group": "FIRST AID KIT ITEMS",
+        "members": [
+            "BANDAGE",
+            "DRESSING",
+            "SCISSORS",
+            "TAPE"
+        ]
+    },
+    {
+        "group": "CANDY PIECES",
+        "members": [
+            "KISS",
+            "NERD",
+            "RUNT",
+            "WHOPPER"
+        ]
+    },
+    {
+        "group": "YOGA POSES",
+        "members": [
+            "CHAIR",
+            "MOUNTAIN",
+            "TREE",
+            "WARRIOR"
+        ]
+    },
+    {
+        "group": "ZODIAC SYMBOLS",
+        "members": [
+            "BULL",
+            "CRAB",
+            "LION",
+            "RAM"
+        ]
+    },
+    {
+        "group": "KINDS OF CHARTS",
+        "members": [
+            "BAR",
+            "BUBBLE",
+            "LINE",
+            "PIE"
+        ]
+    },
+    {
+        "group": "NEWSPAPER NAMES",
+        "members": [
+            "GLOBE",
+            "MIRROR",
+            "POST",
+            "SUN"
+        ]
+    },
+    {
+        "group": "BEIGE SHADES",
+        "members": [
+            "BUFF",
+            "CREAM",
+            "FAWN",
+            "TAN"
+        ]
+    },
+    {
+        "group": "CAR RENTAL COMPANIES",
+        "members": [
+            "BUDGET",
+            "ENTERPRISE",
+            "NATIONAL",
+            "THRIFTY"
+        ]
+    },
+    {
+        "group": "WORDS THAT MAKE UP THE ACRONYM “HVAC”",
+        "members": [
+            "AIR",
+            "CONDITIONING",
+            "HEATING",
+            "VENTILATION"
+        ]
+    },
+    {
+        "group": "BAD GOLF SHOTS",
+        "members": [
+            "HOOK",
+            "SHANK",
+            "SLICE",
+            "WHIFF"
+        ]
+    },
+    {
+        "group": "CLASSIC BARBERSHOP SUPPLIES",
+        "members": [
+            "BRUSH",
+            "CAPE",
+            "CLIPPERS",
+            "GEL"
+        ]
+    },
+    {
+        "group": "DESCRIBED AS DRY",
+        "members": [
+            "DESERT",
+            "HUMOR",
+            "MARTINI",
+            "TEETOTALER"
+        ]
+    },
+    {
+        "group": "U.S. COLLEGES/UNIVERSITIES",
+        "members": [
+            "BROWN",
+            "DUKE",
+            "HOWARD",
+            "SMITH"
+        ]
+    },
+    {
+        "group": "WONDERS OF THE WORLD",
+        "members": [
+            "GARDENS",
+            "LIGHTHOUSE",
+            "PYRAMID",
+            "TEMPLE"
+        ]
+    },
+    {
+        "group": "KINDS OF SALAD",
+        "members": [
+            "CHEF",
+            "GARDEN",
+            "GREEK",
+            "WEDGE"
+        ]
+    },
+    {
+        "group": "SHADES OF BLACK",
+        "members": [
+            "CHARCOAL",
+            "JET",
+            "RAVEN",
+            "SABLE"
+        ]
+    },
+    {
+        "group": "CLASSIC COLLECTION ITEMS",
+        "members": [
+            "COIN",
+            "COMIC",
+            "RECORD",
+            "STAMP"
+        ]
+    },
+    {
+        "group": "GLOBAL CURRENCIES",
+        "members": [
+            "POUND",
+            "REAL",
+            "WON",
+            "YEN"
+        ]
+    },
+    {
+        "group": "HELP PUT ON A PARTY",
+        "members": [
+            "CATER",
+            "HOST",
+            "THROW",
+            "PLAN"
+        ]
+    },
+    {
+        "group": "OBTAIN",
+        "members": [
+            "BAG",
+            "LAND",
+            "SCORE",
+            "SNAG"
+        ]
+    },
+    {
+        "group": "THINGS RECEIVED IN THE MAIL",
+        "members": [
+            "BILL",
+            "CARD",
+            "CATALOG",
+            "LETTER"
+        ]
+    },
+    {
+        "group": "AQUARIUM PURCHASES",
+        "members": [
+            "FILTER",
+            "PUMP",
+            "ROCKS",
+            "TANK"
+        ]
+    },
+    {
+        "group": "ECCLESIASTICAL TITLES",
+        "members": [
+            "BISHOP",
+            "PASTOR",
+            "PRIOR",
+            "POPE"
+        ]
+    },
+    {
+        "group": "FLAVOR ASSORTMENT",
+        "members": [
+            "FLIGHT",
+            "PLATTER",
+            "SAMPLER",
+            "TASTING"
+        ]
+    },
+    {
+        "group": "RATINGS SYSTEMS",
+        "members": [
+            "A-F",
+            "PERCENTAGE",
+            "STARS",
+            "THUMBS"
+        ]
+    },
+    {
+        "group": "FEATURED IN “JURASSIC PARK”",
+        "members": [
+            "AMBER",
+            "DINOSAUR",
+            "PALEONTOLOGIST",
+            "MOSQUITO"
+        ]
+    },
+    {
+        "group": "NBA LEGENDS, FAMILIARLY",
+        "members": [
+            "BIRD",
+            "CURRY",
+            "KOBE",
+            "MAGIC"
+        ]
+    },
+    {
+        "group": "FEATURED IN “JACK AND THE BEANSTALK”",
+        "members": [
+            "BEANS",
+            "COW",
+            "GIANT",
+            "JACK"
+        ]
+    },
+    {
+        "group": "PREFIXES",
+        "members": [
+            "PRO",
+            "RETRO",
+            "SUB",
+            "SUPER"
+        ]
+    },
+    {
+        "group": "DOOFUS",
+        "members": [
+            "CLOWN",
+            "DWEEB",
+            "SAP",
+            "TURKEY"
+        ]
+    },
+    {
+        "group": "OVERLY SENTIMENTAL WORK",
+        "members": [
+            "CHEESE",
+            "CORN",
+            "MUSH",
+            "PAP"
+        ]
+    },
+    {
+        "group": "LEGISLATIVE ROLES",
+        "members": [
+            "CHAIR",
+            "LEADER",
+            "SPEAKER",
+            "WHIP"
+        ]
+    },
+    {
+        "group": "KINDS OF REELS",
+        "members": [
+            "BLOOPER",
+            "DEMO",
+            "HIGHLIGHT",
+            "SIZZLE"
+        ]
+    },
+    {
+        "group": "PBS SHOWS",
+        "members": [
+            "FRONTLINE",
+            "NATURE",
+            "NOVA",
+            "MASTERPIECE"
+        ]
+    },
+    {
+        "group": "CHARACTERS IN “THE EMPIRE STRIKES BACK,\" FAMILIARLY",
+        "members": [
+            "BOBA",
+            "CHEWY",
+            "EMPEROR",
+            "SOLO"
+        ]
+    },
+    {
+        "group": "“GREAT JOB!”",
+        "members": [
+            "IMPRESSIVE",
+            "NICE",
+            "PROPS",
+            "WELL DONE"
+        ]
+    },
+    {
+        "group": "CHANCE TO WIN A PRIZE",
+        "members": [
+            "DRAWING",
+            "LOTTERY",
+            "POOL",
+            "RAFFLE"
+        ]
+    },
+    {
+        "group": "MEMBER OF A CARTOON DUO",
+        "members": [
+            "CHIP",
+            "ROCKY",
+            "SCRATCHY",
+            "STITCH"
+        ]
+    },
+    {
+        "group": "BIT OF PARTY DECORATION",
+        "members": [
+            "BALLOON",
+            "BANNER",
+            "CONFETTI",
+            "GARLAND"
+        ]
+    },
+    {
+        "group": "FOOD NAMED AFTER CITIES",
+        "members": [
+            "BROIL",
+            "CHEESESTEAK",
+            "SPROUTS",
+            "WINGS"
+        ]
+    },
+    {
+        "group": "SPECIFICATIONS FOR A BARTENDER",
+        "members": [
+            "DRY",
+            "NEAT",
+            "STRAIGHT",
+            "VIRGIN"
+        ]
+    },
+    {
+        "group": "ACTIONS IN FANTASY SPORTS",
+        "members": [
+            "BENCH",
+            "DRAFT",
+            "START",
+            "TRADE"
+        ]
+    },
+    {
+        "group": "ITEMS IN A MONOPOLY BOX",
+        "members": [
+            "DEED",
+            "HOTEL",
+            "HOUSE",
+            "TOKEN"
+        ]
+    },
+    {
+        "group": "ACTIONS IN CARD GAMES",
+        "members": [
+            "DISCARD",
+            "DRAW",
+            "PASS",
+            "PLAY"
+        ]
+    },
+    {
+        "group": "CHARACTERS WITH PET DOGS",
+        "members": [
+            "CHARLIE",
+            "DOROTHY",
+            "SHAGGY",
+            "WALLACE"
+        ]
+    },
+    {
+        "group": "FAST-MOVING WATER",
+        "members": [
+            "CASCADE",
+            "CURRENT",
+            "RAPID",
+            "WAVE"
+        ]
+    },
+    {
+        "group": "ROBERT DE NIRO FILMS",
+        "members": [
+            "CASINO",
+            "HEAT",
+            "JOKER",
+            "TAXI DRIVER"
+        ]
+    },
+    {
+        "group": "ITEM SOLD IN PAIRS",
+        "members": [
+            "BOOKEND",
+            "EARBUD",
+            "SKI",
+            "SOCK"
+        ]
+    },
+    {
+        "group": "DISNEY CHARACTERS",
+        "members": [
+            "DAISY",
+            "DALE",
+            "DOC",
+            "DORY"
+        ]
+    },
+    {
+        "group": "INVOLVED IN A DENTIST VISIT",
+        "members": [
+            "DRILL",
+            "SINK",
+            "TOOTHBRUSH",
+            "X-RAY"
+        ]
+    },
+    {
+        "group": "PAGES ON A WEBSITE",
+        "members": [
+            "ABOUT",
+            "CONTACT",
+            "HOME",
+            "LOGIN"
+        ]
+    },
+    {
+        "group": "SOUNDS OF LAUGHTER",
+        "members": [
+            "HAR-HAR",
+            "HOOT",
+            "WHOOP",
+            "YUK"
+        ]
+    },
+    {
+        "group": "FOUND ON SHEET MUSIC",
+        "members": [
+            "ACCIDENTAL",
+            "NOTE",
+            "REST",
+            "STAFF"
+        ]
+    },
+    {
+        "group": "MUSIC PUBLICATIONS",
+        "members": [
+            "BILLBOARD",
+            "MOJO",
+            "PITCHFORK",
+            "SPIN"
+        ]
+    },
+    {
+        "group": "MOVIES",
+        "members": [
+            "BIG",
+            "ELF",
+            "HER",
+            "SAW"
+        ]
+    },
+    {
+        "group": "ADDITIONAL BENEFIT",
+        "members": [
+            "BONUS",
+            "EXTRA",
+            "FROSTING",
+            "GRAVY"
+        ]
+    },
+    {
+        "group": "BIRD ONOMATOPOEIA",
+        "members": [
+            "COO",
+            "GOBBLE",
+            "HONK",
+            "HOOT"
+        ]
+    },
+    {
+        "group": "KINDS OF PANTS",
+        "members": [
+            "CAPRI",
+            "CARGO",
+            "HAMMER",
+            "STIRRUP"
+        ]
+    },
+    {
+        "group": "WAYS TO WEAR YOUR HAIR UP",
+        "members": [
+            "BUN",
+            "BRAID",
+            "PONY",
+            "TWIST"
+        ]
+    },
+    {
+        "group": "FICTIONAL CLOWNS",
+        "members": [
+            "HOMEY",
+            "JOKER",
+            "PENNYWISE",
+            "RONALD"
+        ]
+    },
+    {
+        "group": "BIT OF BREAKFAST CEREAL",
+        "members": [
+            "CHEERIO",
+            "FLAKE",
+            "PEBBLE",
+            "PUFF"
+        ]
+    },
+    {
+        "group": "MOVIES WITH “S” REMOVED",
+        "members": [
+            "CAR",
+            "GOODFELLA",
+            "JAW",
+            "SWINGER"
+        ]
+    },
+    {
+        "group": "NON-CASH WAY TO PAY",
+        "members": [
+            "CARD",
+            "CHARGE",
+            "CREDIT",
+            "PLASTIC"
+        ]
+    },
+    {
+        "group": "THINGS THAT MIGHT STING",
+        "members": [
+            "INSULT",
+            "JELLYFISH",
+            "NETTLE",
+            "WASP"
+        ]
+    },
+    {
+        "group": "TABLE TENNIS NEEDS",
+        "members": [
+            "BALL",
+            "NET",
+            "PADDLE",
+            "TABLE"
+        ]
+    },
+    {
+        "group": "AUTOMATIC GEAR SHIFTER POSITIONS",
+        "members": [
+            "DRIVE",
+            "LOW",
+            "NEUTRAL",
+            "REVERSE"
+        ]
+    },
+    {
+        "group": "NASA SPACECRAFT",
+        "members": [
+            "GALILEO",
+            "PIONEER",
+            "VIKING",
+            "VOYAGER"
+        ]
+    },
+    {
+        "group": "BLUE ___",
+        "members": [
+            "JAY",
+            "JEANS",
+            "MOON",
+            "WHALE"
+        ]
+    },
+    {
+        "group": "THINGS MADE BY FOLDING PAPER",
+        "members": [
+            "AIRPLANE",
+            "CRANE",
+            "FAN",
+            "FORTUNE TELLER"
+        ]
+    },
+    {
+        "group": "IPHONE MESSAGE TAPBACK RESPONSES",
+        "members": [
+            "EXCLAMATION POINTS",
+            "HEART",
+            "QUESTION MARK",
+            "THUMBS UP"
+        ]
+    },
+    {
+        "group": "PLACES TO LIE/SIT THAT MOVE",
+        "members": [
+            "CRADLE",
+            "HAMMOCK",
+            "ROCKER",
+            "SWING"
+        ]
+    },
+    {
+        "group": "UNITS",
+        "members": [
+            "BAR",
+            "BEL",
+            "LUX",
+            "MOLE"
+        ]
+    },
+    {
+        "group": "CHURCH OF ENGLAND WEDDING VOW VERBS",
+        "members": [
+            "CHERISH",
+            "HAVE",
+            "HOLD",
+            "LOVE"
+        ]
+    },
+    {
+        "group": "SINGULAR NOUN IN A FAMOUS “JULIUS CAESAR” LINE",
+        "members": [
+            "COUNTRYMAN",
+            "EAR",
+            "FRIEND",
+            "ROMAN"
+        ]
+    },
+    {
+        "group": "KINDS OF TAPE",
+        "members": [
+            "DUCT",
+            "ELECTRICAL",
+            "GAFFER",
+            "PACKING"
+        ]
+    },
+    {
+        "group": "SPORTS CARS",
+        "members": [
+            "DIABLO",
+            "MUSTANG",
+            "SPIDER",
+            "VIPER"
+        ]
+    },
+    {
+        "group": "CHEESY CORN SNACK UNIT",
+        "members": [
+            "BALL",
+            "CURL",
+            "DOODLE",
+            "PUFF"
+        ]
+    },
+    {
+        "group": "CORE EXERCISES",
+        "members": [
+            "BOAT",
+            "CRUNCH",
+            "MOUNTAIN CLIMBER",
+            "PLANK"
+        ]
+    },
+    {
+        "group": "LEGAL SESSION",
+        "members": [
+            "HEARING",
+            "INQUIRY",
+            "PROCEEDING",
+            "TRIAL"
+        ]
+    },
+    {
+        "group": "FURNITURE",
+        "members": [
+            "CHEST",
+            "CONSOLE",
+            "VANITY",
+            "WARDROBE"
+        ]
+    },
+    {
+        "group": "FIGURES IN “SHREK”",
+        "members": [
+            "DONKEY",
+            "DRAGON",
+            "OGRE",
+            "PRINCESS"
+        ]
+    },
+    {
+        "group": "COMMUNICATE THROUGH WRITING",
+        "members": [
+            "CORRESPOND",
+            "MESSAGE",
+            "TEXT",
+            "WRITE"
+        ]
+    },
+    {
+        "group": "INFO ON A MUSEUM PLACARD",
+        "members": [
+            "ARTIST",
+            "MEDIUM",
+            "TITLE",
+            "YEAR"
+        ]
+    },
+    {
+        "group": "RISQUÉ",
+        "members": [
+            "ADULT",
+            "BLUE",
+            "SPICY",
+            "SUGGESTIVE"
+        ]
+    },
+    {
+        "group": "ALGEBRA TERMS",
+        "members": [
+            "EXPONENT",
+            "POWER",
+            "RADICAL",
+            "ROOT"
+        ]
+    },
+    {
+        "group": "N.F.L. TEAM MEMBER",
+        "members": [
+            "COWBOY",
+            "JET",
+            "RAM",
+            "RAVEN"
+        ]
+    },
+    {
+        "group": "KINDS OF BRAS",
+        "members": [
+            "DEMI",
+            "PUSH-UP",
+            "SPORTS",
+            "WIRELESS"
+        ]
+    },
+    {
+        "group": "LAPTOP SPECS",
+        "members": [
+            "RAM",
+            "RESOLUTION",
+            "SPEED",
+            "STORAGE"
+        ]
+    },
+    {
+        "group": "CONCERNS FOR A DENTIST",
+        "members": [
+            "CALCULUS",
+            "CAVITY",
+            "PLAQUE",
+            "TARTAR"
+        ]
+    },
+    {
+        "group": "WORDS ON A RESTAURANT RECEIPT",
+        "members": [
+            "TAX",
+            "TIP",
+            "TOTAL",
+            "SIGNATURE"
+        ]
+    },
+    {
+        "group": "INSTRUMENTS YOU BLOW INTO",
+        "members": [
+            "JUG",
+            "PIPE",
+            "RECORDER",
+            "WHISTLE"
+        ]
+    },
+    {
+        "group": "COLLEGE FOOTBALL TEAM MEMBERS",
+        "members": [
+            "GATOR",
+            "SOONER",
+            "VOLUNTEER",
+            "WOLVERINE"
+        ]
+    },
+    {
+        "group": "OCCASIONS WHEN ONE MIGHT KNEEL",
+        "members": [
+            "APOLOGY",
+            "DUBBING",
+            "PRAYER",
+            "PROPOSAL"
+        ]
+    },
+    {
+        "group": "THINGS WITH SPOTS",
+        "members": [
+            "DALMATIAN",
+            "DIE",
+            "DOMINO",
+            "LADYBUG"
+        ]
+    },
+    {
+        "group": "PASTA SHAPES",
+        "members": [
+            "EAR",
+            "ELBOW",
+            "RIBBON",
+            "WHEEL"
+        ]
+    },
+    {
+        "group": "COCKTAIL-MAKING VERBS",
+        "members": [
+            "GARNISH",
+            "MUDDLE",
+            "STIR",
+            "STRAIN"
+        ]
+    },
+    {
+        "group": "MARINE INVERTEBRATES, FAMILIARLY",
+        "members": [
+            "CORAL",
+            "JELLY",
+            "SPONGE",
+            "STAR"
+        ]
+    },
+    {
+        "group": "WORK COMMUNICATION PLATFORMS",
+        "members": [
+            "MEET",
+            "SLACK",
+            "TEAMS",
+            "ZOOM"
+        ]
+    },
+    {
+        "group": "THINGS ON STICKS",
+        "members": [
+            "BALL-IN-CUP",
+            "CORN DOG",
+            "COTTON SWAB",
+            "LOLLIPOP"
+        ]
+    },
+    {
+        "group": "ELECTRONIC DANCE MUSIC GENRES",
+        "members": [
+            "AMBIENT",
+            "HOUSE",
+            "JUNGLE",
+            "TRANCE"
+        ]
+    },
+    {
+        "group": "PARTS OF A SHIP",
+        "members": [
+            "ANCHOR",
+            "BOW",
+            "BRIDGE",
+            "DECK"
+        ]
+    },
+    {
+        "group": "KINDS OF CRACKERS",
+        "members": [
+            "ANIMAL",
+            "CLUB",
+            "GOLDFISH",
+            "RITZ"
+        ]
+    },
+    {
+        "group": "WHAT A SITTER MIGHT SIT",
+        "members": [
+            "BABY",
+            "HOUSE",
+            "PET",
+            "PLANT"
+        ]
+    },
+    {
+        "group": "EAT VORACIOUSLY",
+        "members": [
+            "BOLT",
+            "DOWN",
+            "GOBBLE",
+            "SCARF"
+        ]
+    },
+    {
+        "group": "M.L.B. TEAM MEMBER",
+        "members": [
+            "NATIONAL",
+            "RAY",
+            "TIGER",
+            "TWIN"
+        ]
+    },
+    {
+        "group": "PERFORM WELL ON",
+        "members": [
+            "ACE",
+            "CRUSH",
+            "NAIL",
+            "ROCK"
+        ]
+    },
+    {
+        "group": "CANDY NAMES",
+        "members": [
+            "CHARMS",
+            "KINDER",
+            "WONKA",
+            "YORK"
+        ]
+    },
+    {
+        "group": "ICON EMBROIDERED ON A POLO SHIRT",
+        "members": [
+            "CROCODILE",
+            "LAUREL",
+            "POLO PLAYER",
+            "SWOOSH"
+        ]
+    },
+    {
+        "group": "“SESAME STREET” CHARACTERS",
+        "members": [
+            "COOKIE",
+            "COUNT",
+            "OSCAR",
+            "SNUFFY"
+        ]
+    },
+    {
+        "group": "FIGURES IN GREEK MYTH",
+        "members": [
+            "ATLAS",
+            "ECHO",
+            "HELEN",
+            "PAN"
+        ]
+    },
+    {
+        "group": "TECH COMPANIES",
+        "members": [
+            "AMAZON",
+            "APPLE",
+            "INTUIT",
+            "ORACLE"
+        ]
+    },
+    {
+        "group": "“TOY STORY” CHARACTERS, FAMILIARLY",
+        "members": [
+            "BUZZ",
+            "HAMM",
+            "REX",
+            "SLINKY"
+        ]
+    },
+    {
+        "group": "W.N.B.A. TEAMS",
+        "members": [
+            "LIBERTY",
+            "STORM",
+            "SUN",
+            "WINGS"
+        ]
+    },
+    {
+        "group": "COMPANIES NAMED AFTER ANIMALS",
+        "members": [
+            "CATERPILLAR",
+            "DOVE",
+            "GREYHOUND",
+            "PUMA"
+        ]
+    },
+    {
+        "group": "USED TO VIEW A BIOLOGICAL SAMPLE",
+        "members": [
+            "MICROSCOPE",
+            "SLIDE",
+            "SPECIMEN",
+            "STAIN"
+        ]
+    },
+    {
+        "group": "FEEL AROUND (FOR)",
+        "members": [
+            "FISH",
+            "FUMBLE",
+            "ROOT",
+            "RUMMAGE"
+        ]
+    },
+    {
+        "group": "PROPER NOUN PORTMANTEAUX",
+        "members": [
+            "JAZZERCISE",
+            "PARALYMPICS",
+            "POKÉMON",
+            "WIKIPEDIA"
+        ]
+    },
+    {
+        "group": "MILD OATHS",
+        "members": [
+            "FUDGE",
+            "GEEZ",
+            "NUTS",
+            "RATS"
+        ]
+    },
+    {
+        "group": "CITRUS SODAS",
+        "members": [
+            "CRUSH",
+            "SPRITE",
+            "SQUIRT",
+            "STARRY"
+        ]
+    },
+    {
+        "group": "GLOBAL CURRENCIES",
+        "members": [
+            "POUND",
+            "REAL",
+            "SOL",
+            "YUAN"
+        ]
+    },
+    {
+        "group": "SKIM THROUGH, AS PAGES",
+        "members": [
+            "FLIP",
+            "LEAF",
+            "RIFFLE",
+            "THUMB"
+        ]
+    },
+    {
+        "group": "SNACK CAKES",
+        "members": [
+            "DEVIL DOG",
+            "DING DONG",
+            "HOHO",
+            "YODEL"
+        ]
+    },
+    {
+        "group": "KINDS OF PAPER",
+        "members": [
+            "CONSTRUCTION",
+            "GRAPH",
+            "TISSUE",
+            "WAX"
+        ]
+    },
+    {
+        "group": "INVESTMENT VERBS",
+        "members": [
+            "HEDGE",
+            "HOLD",
+            "SHORT",
+            "TRADE"
+        ]
+    },
+    {
+        "group": "WATERCRAFT",
+        "members": [
+            "BARGE",
+            "JUNK",
+            "SUB",
+            "TUG"
+        ]
+    },
+    {
+        "group": "KINDS OF BROS",
+        "members": [
+            "CRYPTO",
+            "FINANCE",
+            "PHARMA",
+            "TECH"
+        ]
+    },
+    {
+        "group": "KINDS OF BEDS",
+        "members": [
+            "BUNK",
+            "CANOPY",
+            "MURPHY",
+            "SLEIGH"
+        ]
+    },
+    {
+        "group": "POLICE PROCEDURALS",
+        "members": [
+            "BONES",
+            "ELEMENTARY",
+            "KOJAK",
+            "MONK"
+        ]
+    },
+    {
+        "group": "WAYS TO EXPRESS 1,000",
+        "members": [
+            "GRAND",
+            "K",
+            "M",
+            "THOU"
+        ]
+    },
+    {
+        "group": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+        "members": [
+            "BEES",
+            "EASE",
+            "JAYS",
+            "USE"
+        ]
+    },
+    {
+        "group": "FEMALE ANIMALS",
+        "members": [
+            "JENNY",
+            "NANNY",
+            "QUEEN",
+            "VIXEN"
+        ]
+    },
+    {
+        "group": "SIZABLE, AS AN AMOUNT",
+        "members": [
+            "HANDSOME",
+            "HEALTHY",
+            "RESPECTABLE",
+            "TIDY"
+        ]
+    },
+    {
+        "group": "THEY HAVE A HORN",
+        "members": [
+            "AFRICA",
+            "BUGLER",
+            "CAR",
+            "UNICORN"
+        ]
+    },
+    {
+        "group": "PROVERBIAL THINGS TO KICK",
+        "members": [
+            "CAN",
+            "HABIT",
+            "HORNETS’ NEST",
+            "TIRES"
+        ]
+    },
+    {
+        "group": "DIFFERENT AMOUNTS OF HAIR",
+        "members": [
+            "HEAD",
+            "LOCK",
+            "STRAND",
+            "WISP"
+        ]
+    },
+    {
+        "group": "PAY, WITH “UP”",
+        "members": [
+            "ANTE",
+            "COUGH",
+            "PONY",
+            "SETTLE"
+        ]
+    },
+    {
+        "group": "WORDS BEFORE AN ADDRESSEE",
+        "members": [
+            "ATTENTION",
+            "DEAR",
+            "FOR",
+            "TO"
+        ]
+    },
+    {
+        "group": "DUTCH SYMBOLS",
+        "members": [
+            "CANAL",
+            "CLOG",
+            "TULIP",
+            "WINDMILL"
+        ]
+    },
+    {
+        "group": "ONE IN A GROUP OF TWELVE",
+        "members": [
+            "DONUT",
+            "INCH",
+            "JUROR",
+            "MONTH"
+        ]
+    },
+    {
+        "group": "KINDS OF MUSHROOMS",
+        "members": [
+            "BUTTON",
+            "MOREL",
+            "OYSTER",
+            "TRUMPET"
+        ]
+    },
+    {
+        "group": "MARK AS COMPLETED",
+        "members": [
+            "CHECK",
+            "CROSS",
+            "STRIKE",
+            "TICK"
+        ]
+    },
+    {
+        "group": "REMOTE CONTROL FUNCTIONS",
+        "members": [
+            "HOME",
+            "MUTE",
+            "STOP",
+            "VOLUME"
+        ]
+    },
+    {
+        "group": "METAPHORS FOR EASY THINGS",
+        "members": [
+            "ABC",
+            "BREEZE",
+            "PICNIC",
+            "PIE"
+        ]
+    },
+    {
+        "group": "BOOK SUBTITLES",
+        "members": [
+            "A LIFE",
+            "A NOVEL",
+            "ESSAYS",
+            "PART ONE"
+        ]
+    },
+    {
+        "group": "DISTINCTIVE FEATURES OF AN ELEPHANT",
+        "members": [
+            "EAR",
+            "MEMORY",
+            "TRUNK",
+            "TUSK"
+        ]
+    },
+    {
+        "group": "CORPORATE DEPARTMENTS",
+        "members": [
+            "FINANCE",
+            "IT",
+            "LEGAL",
+            "SALES"
+        ]
+    },
+    {
+        "group": "INGREDIENTS IN AN OLD FASHIONED",
+        "members": [
+            "BITTERS",
+            "ORANGE",
+            "RYE",
+            "SUGAR"
+        ]
+    },
+    {
+        "group": "OLYMPIC EVENTS SINCE 2000",
+        "members": [
+            "BREAKING",
+            "SURFING",
+            "TAEKWONDO",
+            "TRAMPOLINE"
+        ]
+    },
+    {
+        "group": "CLASSIC ATARI GAMES",
+        "members": [
+            "ASTEROIDS",
+            "BREAKOUT",
+            "CENTIPEDE",
+            "DEFENDER"
+        ]
+    },
+    {
+        "group": "DRIVING INSTRUCTOR DIRECTIVES",
+        "members": [
+            "BRAKE",
+            "PARK",
+            "SIGNAL",
+            "TURN"
+        ]
+    },
+    {
+        "group": "THINGS IN A CAMERA KIT",
+        "members": [
+            "BODY",
+            "FLASH",
+            "LENS",
+            "STRAP"
+        ]
+    },
+    {
+        "group": "MARTINI SPECIFICATIONS",
+        "members": [
+            "DIRTY",
+            "DRY",
+            "PERFECT",
+            "WET"
+        ]
+    },
+    {
+        "group": "SPY",
+        "members": [
+            "AGENT",
+            "ASSET",
+            "MOLE",
+            "PLANT"
+        ]
+    },
+    {
+        "group": "WEB BROWSERS",
+        "members": [
+            "CHROME",
+            "EDGE",
+            "OPERA",
+            "SAFARI"
+        ]
+    },
+    {
+        "group": "INFO ON A RECORD",
+        "members": [
+            "ALBUM",
+            "ARTIST",
+            "LABEL",
+            "TRACK"
+        ]
+    },
+    {
+        "group": "LANDFORMS",
+        "members": [
+            "BASIN",
+            "BLUFF",
+            "CAPE",
+            "PLAIN"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH POPEYE",
+        "members": [
+            "ANCHOR",
+            "FOREARM",
+            "PIPE",
+            "SPINACH"
+        ]
+    },
+    {
+        "group": "USED TO CLEAR SNOW",
+        "members": [
+            "PLOW",
+            "SALT",
+            "SAND",
+            "SHOVEL"
+        ]
+    },
+    {
+        "group": "ONES WEARING ROBES",
+        "members": [
+            "BOXER",
+            "JUDGE",
+            "MONK",
+            "WIZARD"
+        ]
+    },
+    {
+        "group": "PARTS OF AN INDIANA JONES COSTUME",
+        "members": [
+            "BOMBER",
+            "FEDORA",
+            "SATCHEL",
+            "WHIP"
+        ]
+    },
+    {
+        "group": "VOCATION",
+        "members": [
+            "CRAFT",
+            "LINE",
+            "TRADE",
+            "WORK"
+        ]
+    },
+    {
+        "group": "WORDS DERIVED FROM JAPANESE",
+        "members": [
+            "EMOJI",
+            "GINKGO",
+            "KARAOKE",
+            "TYCOON"
+        ]
+    },
+    {
+        "group": "PARTS OF A BIG RIG",
+        "members": [
+            "AXLES",
+            "HITCH",
+            "TRACTOR",
+            "TRAILER"
+        ]
+    },
+    {
+        "group": "“EXTRA VIRGIN OLIVE OIL”",
+        "members": [
+            "EXTRA",
+            "OIL",
+            "OLIVE",
+            "VIRGIN"
+        ]
+    },
+    {
+        "group": "CANDY BARS MINUS “S”",
+        "members": [
+            "AIRHEAD",
+            "MAR",
+            "MOUND",
+            "SNICKER"
+        ]
+    },
+    {
+        "group": "MOVIE SERIES WITH 2024 RELEASES",
+        "members": [
+            "ALIEN",
+            "GLADIATOR",
+            "VENOM",
+            "WICKED"
+        ]
+    },
+    {
+        "group": "KEEP GOING ON ABOUT, WITH “ON”",
+        "members": [
+            "DWELL",
+            "HARP",
+            "INSIST",
+            "LINGER"
+        ]
+    },
+    {
+        "group": "ONES WITH DISCERNING TASTES",
+        "members": [
+            "CONNOISSEUR",
+            "CRITIC",
+            "EXPERT",
+            "SNOB"
+        ]
+    },
+    {
+        "group": "TAKE ISSUE WITH",
+        "members": [
+            "CONTEST",
+            "CHALLENGE",
+            "DISPUTE",
+            "QUESTION"
+        ]
+    },
+    {
+        "group": "TV COMEDY FAMILIES",
+        "members": [
+            "GRIFFIN",
+            "MUNSTER",
+            "PARTRIDGE",
+            "PICKLES"
+        ]
+    },
+    {
+        "group": "BIT OF CITRUS GARNISH",
+        "members": [
+            "SLICE",
+            "TWIST",
+            "WEDGE",
+            "ZEST"
+        ]
+    },
+    {
+        "group": "SPORTS GAMBLING TERMS",
+        "members": [
+            "FAVORITE",
+            "PARLAY",
+            "SPREAD",
+            "UNDER"
+        ]
+    },
+    {
+        "group": "THINGS TO DO WITH A DECK OF CARDS",
+        "members": [
+            "CUT",
+            "DEAL",
+            "FAN",
+            "SHUFFLE"
+        ]
+    },
+    {
+        "group": "THINGS WITH NECKS",
+        "members": [
+            "BOTTLE",
+            "GIRAFFE",
+            "GUITAR",
+            "LAMP"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH THE GENIE IN “ALADDIN”",
+        "members": [
+            "BLUE",
+            "EARRING",
+            "LAMP",
+            "WISHES"
+        ]
+    },
+    {
+        "group": "TIME ADVERBS",
+        "members": [
+            "LATER",
+            "NOW",
+            "SOON",
+            "THEN"
+        ]
+    },
+    {
+        "group": "SOMEBODY",
+        "members": [
+            "CHARACTER",
+            "INDIVIDUAL",
+            "PARTY",
+            "PERSON"
+        ]
+    },
+    {
+        "group": "“AAH, ENOUGH!”",
+        "members": [
+            "MERCY",
+            "STOP",
+            "TRUCE",
+            "UNCLE"
+        ]
+    },
+    {
+        "group": "YOGA ACCESSORIES",
+        "members": [
+            "BLOCK",
+            "BOLSTER",
+            "MAT",
+            "STRAP"
+        ]
+    },
+    {
+        "group": "PROPS FOR CHARACTERS ON “THE SIMPSONS”",
+        "members": [
+            "DONUT",
+            "PACIFIER",
+            "SAXOPHONE",
+            "SKATEBOARD"
+        ]
+    },
+    {
+        "group": "MODAL VERBS",
+        "members": [
+            "CAN",
+            "MIGHT",
+            "MUST",
+            "WILL"
+        ]
+    },
+    {
+        "group": "WORDS SAID TO AN UNSUSPECTING PERSON",
+        "members": [
+            "BOO",
+            "GOTCHA",
+            "GUESS WHO",
+            "SURPRISE"
+        ]
+    },
+    {
+        "group": "WORDS SHORTENED IN ROCK GENRES",
+        "members": [
+            "ALTERNATIVE",
+            "EMOTIONAL",
+            "POPULAR",
+            "PROGRESSIVE"
+        ]
+    },
+    {
+        "group": "FAMOUS PUPPETS",
+        "members": [
+            "LAMB CHOP",
+            "OSCAR",
+            "PUNCH",
+            "TRIUMPH"
+        ]
+    },
+    {
+        "group": "BOWLING RESULTS",
+        "members": [
+            "DOUBLE",
+            "SPARE",
+            "STRIKE",
+            "TURKEY"
+        ]
+    },
+    {
+        "group": "SUBSTANTIAL, AS A MEAL",
+        "members": [
+            "FILLING",
+            "HEARTY",
+            "SOLID",
+            "SQUARE"
+        ]
+    },
+    {
+        "group": "SOUNDS A CUCKOO CLOCK MAKES",
+        "members": [
+            "CHIME",
+            "CUCKOO",
+            "TICK",
+            "TOCK"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH EARLY MORNING",
+        "members": [
+            "DEW",
+            "ROOSTER",
+            "SUNRISE",
+            "WORM"
+        ]
+    },
+    {
+        "group": "PHOTOSHOP TOOLS",
+        "members": [
+            "ERASER",
+            "EYEDROPPER",
+            "LASSO",
+            "MAGIC WAND"
+        ]
+    },
+    {
+        "group": "SUPPLIES FOR MACARONI ART",
+        "members": [
+            "GLITTER",
+            "GLUE",
+            "MACARONI",
+            "PAPER"
+        ]
+    },
+    {
+        "group": "BREAKFAST CONDIMENTS",
+        "members": [
+            "BUTTER",
+            "HOT SAUCE",
+            "JAM",
+            "SYRUP"
+        ]
+    },
+    {
+        "group": "CLASSIC NAUTICAL TATTOOS",
+        "members": [
+            "ANCHOR",
+            "COMPASS",
+            "MERMAID",
+            "SWALLOW"
+        ]
+    },
+    {
+        "group": "RECTANGULAR PRISMS",
+        "members": [
+            "BRICK",
+            "FISH TANK",
+            "MICROWAVE",
+            "SHOEBOX"
+        ]
+    },
+    {
+        "group": "MADE WITH HORIZONTAL LINES",
+        "members": [
+            "DASH",
+            "HYPHEN",
+            "MINUS",
+            "UNDERSCORE"
+        ]
+    },
+    {
+        "group": "LEVELS OF BIOLOGICAL ORGANIZATION",
+        "members": [
+            "ATOM",
+            "CELL",
+            "ORGAN",
+            "TISSUE"
+        ]
+    },
+    {
+        "group": "LUCIDITY",
+        "members": [
+            "MARBLES",
+            "MIND",
+            "SENSE",
+            "WITS"
+        ]
+    },
+    {
+        "group": "BROADWAY MUSICALS, FAMILIARLY",
+        "members": [
+            "FIDDLER",
+            "MERRILY",
+            "PHANTOM",
+            "SUNSET"
+        ]
+    },
+    {
+        "group": "WHAT “W” MIGHT STAND FOR",
+        "members": [
+            "TUNGSTEN",
+            "WATT",
+            "WEST",
+            "WIN"
+        ]
+    },
+    {
+        "group": "CYLINDER OF MATERIAL",
+        "members": [
+            "BOLT",
+            "REEL",
+            "ROLL",
+            "SCROLL"
+        ]
+    },
+    {
+        "group": "DICKENS CHARACTERS",
+        "members": [
+            "BUCKET",
+            "PIP",
+            "SCROOGE",
+            "TWIST"
+        ]
+    },
+    {
+        "group": "WHAT MIGHT BRING TEARS TO YOUR EYES",
+        "members": [
+            "ALLERGY",
+            "MELODRAMA",
+            "ONION",
+            "RELIEF"
+        ]
+    },
+    {
+        "group": "SHOES",
+        "members": [
+            "FLAT",
+            "MARY JANE",
+            "MULE",
+            "SLIDE"
+        ]
+    },
+    {
+        "group": "U.S. CITIES",
+        "members": [
+            "BUFFALO",
+            "HELENA",
+            "IRVING",
+            "PHOENIX"
+        ]
+    },
+    {
+        "group": "WORDS SAID FREQUENTLY IN THE “BILL AND TED” MOVIES",
+        "members": [
+            "BOGUS",
+            "DUDE",
+            "EXCELLENT",
+            "TOTALLY"
+        ]
+    },
+    {
+        "group": "HELPFUL DEED",
+        "members": [
+            "FAVOR",
+            "KINDNESS",
+            "SERVICE",
+            "SOLID"
+        ]
+    },
+    {
+        "group": "ATTRACTIONS ICONICALLY DIFFERENT FROM THEIR ORIGINAL FORMS",
+        "members": [
+            "LIBERTY BELL",
+            "VENUS DE MILO",
+            "STATUE OF LIBERTY",
+            "TOWER OF PISA"
+        ]
+    },
+    {
+        "group": "THINGS TRADITIONALLY MADE OF LEATHER",
+        "members": [
+            "FOOTBALL",
+            "MOCCASINS",
+            "SADDLE",
+            "WALLET"
+        ]
+    },
+    {
+        "group": "WORDS SAID TO HAVE NO EXACT RHYMES",
+        "members": [
+            "MONTH",
+            "ORANGE",
+            "PURPLE",
+            "SILVER"
+        ]
+    },
+    {
+        "group": "CARDS IN TEXAS HOLD ’EM",
+        "members": [
+            "FLOP",
+            "HOLE",
+            "RIVER",
+            "TURN"
+        ]
+    },
+    {
+        "group": "MOVIES OF VARIOUS LENGTHS",
+        "members": [
+            "EPIC",
+            "FEATURE",
+            "FILM SERIES",
+            "SHORT"
+        ]
+    },
+    {
+        "group": "LITIGATION VERBS",
+        "members": [
+            "CHARGE",
+            "MOVE",
+            "SERVE",
+            "SUE"
+        ]
+    },
+    {
+        "group": "SERIAL KILLER MOVIES",
+        "members": [
+            "MONSTER",
+            "PSYCHO",
+            "SEVEN",
+            "ZODIAC"
+        ]
+    },
+    {
+        "group": "KINDS OF TRUCKS",
+        "members": [
+            "DUMP",
+            "GARBAGE",
+            "MONSTER",
+            "PICKUP"
+        ]
+    },
+    {
+        "group": "PLURAL ANIMALS IDENTICAL TO THEIR SINGULAR FORMS",
+        "members": [
+            "DEER",
+            "SHEEP",
+            "SHRIMP",
+            "SQUID"
+        ]
+    },
+    {
+        "group": "PARTS OF A ROAD",
+        "members": [
+            "DIVIDER",
+            "LANE",
+            "MEDIAN",
+            "SHOULDER"
+        ]
+    },
+    {
+        "group": "KINDS OF CORDS",
+        "members": [
+            "BUNGEE",
+            "EXTENSION",
+            "SPINAL",
+            "UMBILICAL"
+        ]
+    },
+    {
+        "group": "ARCHITECTURAL DRAWING TOOLS",
+        "members": [
+            "COMPASS",
+            "RULER",
+            "STENCIL",
+            "T-SQUARE"
+        ]
+    },
+    {
+        "group": "WORDS WITH THE PREFIX MEANING “THREE”",
+        "members": [
+            "TRIANGLE",
+            "TRIDENT",
+            "TRILLION",
+            "TRILOBITE"
+        ]
+    },
+    {
+        "group": "WORDS THAT MODIFY “WATCH”",
+        "members": [
+            "POCKET",
+            "SMART",
+            "STOP",
+            "WRIST"
+        ]
+    },
+    {
+        "group": "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS",
+        "members": [
+            "ADULTS ONLY",
+            "EVERYONE",
+            "TEEN",
+            "MATURE"
+        ]
+    },
+    {
+        "group": "U.S. PRESIDENTIAL NICKNAMES",
+        "members": [
+            "ABE",
+            "CAL",
+            "DICK",
+            "TEDDY"
+        ]
+    },
+    {
+        "group": "KINDS OF DIGITAL STORAGE",
+        "members": [
+            "CARD",
+            "CLOUD",
+            "DISK",
+            "DRIVE"
+        ]
+    },
+    {
+        "group": "SLANG FOR MONEY",
+        "members": [
+            "CHANGE",
+            "GREEN",
+            "PAPER",
+            "SCRATCH"
+        ]
+    },
+    {
+        "group": "PARTS OF A CLASSIC GIRL SCOUT UNIFORM",
+        "members": [
+            "BADGE",
+            "BERET",
+            "SASH",
+            "SKIRT"
+        ]
+    },
+    {
+        "group": "NOUNS IN A FAMOUS PALINDROME",
+        "members": [
+            "CANAL",
+            "MAN",
+            "PANAMA",
+            "PLAN"
+        ]
+    },
+    {
+        "group": "PROPER NOUNS IN BROADWAY MUSICAL TITLES THAT ARE SPOKEN PHRASES",
+        "members": [
+            "BIRDIE",
+            "DOLLY",
+            "KATE",
+            "YANKEES"
+        ]
+    },
+    {
+        "group": "ATM OPTIONS",
+        "members": [
+            "BALANCE",
+            "DEPOSIT",
+            "TRANSFER",
+            "WITHDRAWAL"
+        ]
+    },
+    {
+        "group": "EMOTICON MOUTHS",
+        "members": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "group": "WILLIAMSES",
+        "members": [
+            "HANK",
+            "ROBIN",
+            "TENNESSEE",
+            "VENUS"
+        ]
+    },
+    {
+        "group": "THINGS WITH TABS",
+        "members": [
+            "BROWSER",
+            "FOLDER",
+            "KEYBOARD",
+            "SODA CAN"
+        ]
+    },
+    {
+        "group": "BASEBALL VENUES",
+        "members": [
+            "DIAMOND",
+            "FIELD",
+            "PARK",
+            "STADIUM"
+        ]
+    },
+    {
+        "group": "MAGAZINES",
+        "members": [
+            "BILLBOARD",
+            "PEOPLE",
+            "STAR",
+            "TIME"
+        ]
+    },
+    {
+        "group": "WHAT AN ELECTROMETER MEASURES",
+        "members": [
+            "CHARGE",
+            "CURRENT",
+            "RESISTANCE",
+            "VOLTAGE"
+        ]
+    },
+    {
+        "group": "PICTURE HANGING NEEDS",
+        "members": [
+            "HAMMER",
+            "HANGER",
+            "LEVEL",
+            "NAIL"
+        ]
+    },
+    {
+        "group": "OLD TESTAMENT BOOKS",
+        "members": [
+            "DANIEL",
+            "JOB",
+            "JUDGES",
+            "NUMBERS"
+        ]
+    },
+    {
+        "group": "ANIMALS IN THE WITCHES' BREW IN “MACBETH”",
+        "members": [
+            "BAT",
+            "DOG",
+            "FROG",
+            "NEWT"
+        ]
+    },
+    {
+        "group": "ANTI-SPIRIT OF CHRISTMAS",
+        "members": [
+            "BAH",
+            "COAL",
+            "GRINCH",
+            "NAUGHTY"
+        ]
+    },
+    {
+        "group": "PLACES TO FIND STARS",
+        "members": [
+            "AMERICAN FLAG",
+            "GALAXY",
+            "RED CARPET",
+            "UBER RATING"
+        ]
+    },
+    {
+        "group": "N.B.A. PLAYER",
+        "members": [
+            "BUCK",
+            "NET",
+            "SPUR",
+            "SUN"
+        ]
+    },
+    {
+        "group": "FONT-MODIFYING WORDS",
+        "members": [
+            "GOTHIC",
+            "ROMAN",
+            "SANS",
+            "TYPEWRITER"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH THE GAME THE OREGON TRAIL",
+        "members": [
+            "DYSENTERY",
+            "FORD",
+            "HUNT",
+            "OXEN"
+        ]
+    },
+    {
+        "group": "ELEMENTS OF GREEK DRAMA",
+        "members": [
+            "CHORUS",
+            "HERO",
+            "HUBRIS",
+            "TRAGEDY"
+        ]
+    },
+    {
+        "group": "THEY ROAR",
+        "members": [
+            "CROWD",
+            "ENGINE",
+            "KATY PERRY",
+            "LION"
+        ]
+    },
+    {
+        "group": "UNITS OF BEER",
+        "members": [
+            "CASE",
+            "FORTY",
+            "GROWLER",
+            "SIX-PACK"
+        ]
+    },
+    {
+        "group": "THINGS YOU CAN PICK",
+        "members": [
+            "APPLE",
+            "BANJO",
+            "CARD",
+            "NOSE"
+        ]
+    },
+    {
+        "group": "DOG BREEDS, INFORMALLY",
+        "members": [
+            "BULLY",
+            "CHOW",
+            "GOLDEN",
+            "LAB"
+        ]
+    },
+    {
+        "group": "THINGS YOU CAN CRACK",
+        "members": [
+            "CODE",
+            "EGG",
+            "JOKE",
+            "WHIP"
+        ]
+    },
+    {
+        "group": "THINGS YOU CAN INSERT INTO A SPREADSHEET",
+        "members": [
+            "CELL",
+            "COLUMN",
+            "ROW",
+            "SHEET"
+        ]
+    },
+    {
+        "group": "THINGS THAT ARE SLIPPERY",
+        "members": [
+            "BANANA PEEL",
+            "EEL",
+            "GREASE",
+            "ICE"
+        ]
+    },
+    {
+        "group": "COMEDIC ROUTINE",
+        "members": [
+            "ACT",
+            "BIT",
+            "GAG",
+            "SKETCH"
+        ]
+    },
+    {
+        "group": "“BATMAN” VILLAINS",
+        "members": [
+            "BANE",
+            "JOKER",
+            "PENGUIN",
+            "SCARECROW"
+        ]
+    },
+    {
+        "group": "GREAT AMERICAN SONGBOOK SONGS",
+        "members": [
+            "AUTUMN LEAVES",
+            "SUMMERTIME",
+            "UNFORGETTABLE",
+            "WITCHCRAFT"
+        ]
+    },
+    {
+        "group": "BOBS",
+        "members": [
+            "DOLE",
+            "HOPE",
+            "MARLEY",
+            "ROSS"
+        ]
+    },
+    {
+        "group": "SALTY SNACK UNIT",
+        "members": [
+            "COMBO",
+            "GOLDFISH",
+            "RUFFLE",
+            "TAKI"
+        ]
+    },
+    {
+        "group": "CLUES AT A CRIME SCENE",
+        "members": [
+            "FIBER",
+            "FINGERPRINT",
+            "HAIR",
+            "TIRE MARK"
+        ]
+    },
+    {
+        "group": "THINGS TO CLIMB",
+        "members": [
+            "LADDER",
+            "MOUNTAIN",
+            "ROPE",
+            "TREE"
+        ]
+    },
+    {
+        "group": "REPUTATION",
+        "members": [
+            "FACE",
+            "IMAGE",
+            "REGARD",
+            "STANDING"
+        ]
+    },
+    {
+        "group": "MOVIE CAMERA VERBS",
+        "members": [
+            "DOLLY",
+            "PAN",
+            "TILT",
+            "ZOOM"
+        ]
+    },
+    {
+        "group": "BBQ OFFERING",
+        "members": [
+            "DOG",
+            "LINK",
+            "RIB",
+            "WING"
+        ]
+    },
+    {
+        "group": "“WILL” CONTRACTIONS WITHOUT THE APOSTROPHE",
+        "members": [
+            "HELL",
+            "ILL",
+            "SHELL",
+            "WELL"
+        ]
+    },
+    {
+        "group": "INGREDIENTS IN BUBBLE TEA",
+        "members": [
+            "BOBA",
+            "MILK",
+            "SUGAR",
+            "TEA"
+        ]
+    },
+    {
+        "group": "STOP CHANGING",
+        "members": [
+            "FLATTEN",
+            "LEVEL",
+            "PLATEAU",
+            "SETTLE"
+        ]
+    },
+    {
+        "group": "COMPARATIVELY SMALL",
+        "members": [
+            "BABY",
+            "COMPACT",
+            "MINUTE",
+            "TOY"
+        ]
+    },
+    {
+        "group": "TAROT MINOR ARCANA SUITS",
+        "members": [
+            "CUPS",
+            "PENTACLES",
+            "SWORDS",
+            "WANDS"
+        ]
+    },
+    {
+        "group": "HEROES OF ACTION MOVIE FRANCHISES",
+        "members": [
+            "BOND",
+            "JONES",
+            "OCEAN",
+            "WICK"
+        ]
+    },
+    {
+        "group": "RESULTS OF SOME ARITHMETIC",
+        "members": [
+            "DIFFERENCE",
+            "PRODUCT",
+            "QUOTIENT",
+            "SUM"
+        ]
+    },
+    {
+        "group": "VIGOR",
+        "members": [
+            "BEANS",
+            "ENERGY",
+            "PEP",
+            "ZIP"
+        ]
+    },
+    {
+        "group": "COMMON VIDEO GAME FEATURES",
+        "members": [
+            "BOSS",
+            "LEVEL",
+            "HEALTH",
+            "POWER-UP"
+        ]
+    },
+    {
+        "group": "THINGS TRACKED BY WEB ANALYTICS",
+        "members": [
+            "CLICK",
+            "HIT",
+            "PAGE VIEW",
+            "VISIT"
+        ]
+    },
+    {
+        "group": "ENDING WITH COLORS",
+        "members": [
+            "EVERGREEN",
+            "INFRARED",
+            "MARIGOLD",
+            "QUICKSILVER"
+        ]
+    },
+    {
+        "group": "TITULAR TALKING ANIMALS OF FILM",
+        "members": [
+            "BABE",
+            "BOLT",
+            "DUMBO",
+            "TED"
+        ]
+    },
+    {
+        "group": "LAST WORDS OF FAMOUS OPERA TITLES",
+        "members": [
+            "BESS",
+            "BUTTERFLY",
+            "FLUTE",
+            "SEVILLE"
+        ]
+    },
+    {
+        "group": "ASSOCIATED WITH BULLS",
+        "members": [
+            "MICHAEL JORDAN",
+            "RODEO",
+            "TAURUS",
+            "WALL STREET"
+        ]
+    },
+    {
+        "group": "KINDS OF PENGUINS",
+        "members": [
+            "CHINSTRAP",
+            "EMPEROR",
+            "KING",
+            "MACARONI"
+        ]
+    },
+    {
+        "group": "UP FOR ANYTHING",
+        "members": [
+            "EASY",
+            "FLEXIBLE",
+            "GAME",
+            "OPEN"
+        ]
+    },
+    {
+        "group": "FEATURES OF A TOOTHED WHALE",
+        "members": [
+            "BLUBBER",
+            "FLIPPER",
+            "FLUKE",
+            "MELON"
+        ]
+    },
+    {
+        "group": "DETECTIVES OF KID-LIT",
+        "members": [
+            "BROWN",
+            "DREW",
+            "HARDY",
+            "HOLMES"
+        ]
+    },
+    {
+        "group": "MEDICINE FORMATS",
+        "members": [
+            "CREAM",
+            "PATCH",
+            "SPRAY",
+            "TABLET"
+        ]
+    },
+    {
+        "group": "FEATURES OF THE NATIONAL MALL IN D.C.",
+        "members": [
+            "CAPITOL",
+            "MALL",
+            "OBELISK",
+            "POOL"
+        ]
+    },
+    {
+        "group": "BRITISH IMPERIAL UNITS OF WEIGHT",
+        "members": [
+            "DRAM",
+            "OUNCE",
+            "POUND",
+            "STONE"
+        ]
+    },
+    {
+        "group": "NEW YORK SPORTS TEAM MEMBERS",
+        "members": [
+            "JET",
+            "MET",
+            "NET",
+            "RANGER"
+        ]
+    },
+    {
+        "group": "EAR PIERCING SITES",
+        "members": [
+            "CONCH",
+            "HELIX",
+            "LOBE",
+            "ROOK"
+        ]
+    },
+    {
+        "group": "LINGERIE",
+        "members": [
+            "GARTER",
+            "HOSE",
+            "SLIP",
+            "TEDDY"
+        ]
+    },
+    {
+        "group": "GUITAR PLAYING TECHNIQUES",
+        "members": [
+            "BEND",
+            "PICK",
+            "SLIDE",
+            "STRUM"
+        ]
+    },
+    {
+        "group": "BEST PICTURE WINNERS SINCE 2000",
+        "members": [
+            "CHICAGO",
+            "CRASH",
+            "GLADIATOR",
+            "MOONLIGHT"
+        ]
+    },
+    {
+        "group": "VERBS FOR FINISHING DONUTS",
+        "members": [
+            "FROST",
+            "GLAZE",
+            "POWDER",
+            "SPRINKLE"
+        ]
+    },
+    {
+        "group": "COMMON SWAG ITEMS",
+        "members": [
+            "HAT",
+            "TEE",
+            "TOTE",
+            "WATER BOTTLE"
+        ]
+    },
+    {
+        "group": "VERBS IN BREADMAKING",
+        "members": [
+            "FERMENT",
+            "PROOF",
+            "REST",
+            "RISE"
+        ]
+    },
+    {
+        "group": "ENSURE, AS A VICTORY",
+        "members": [
+            "CINCH",
+            "GUARANTEE",
+            "ICE",
+            "LOCK"
+        ]
+    },
+    {
+        "group": "WORDS WHOSE ONLY VOWEL IS “Y”",
+        "members": [
+            "MYRRH",
+            "NYMPH",
+            "RHYTHM",
+            "SPHYNX"
+        ]
+    },
+    {
+        "group": "KINDS OF BRACELETS",
+        "members": [
+            "CHARM",
+            "FRIENDSHIP",
+            "ID",
+            "TENNIS"
+        ]
+    },
+    {
+        "group": "THINGS IN AN ENTRYWAY",
+        "members": [
+            "BENCH",
+            "COAT RACK",
+            "CONSOLE",
+            "RUNNER"
+        ]
+    },
+    {
+        "group": "WAYS TO MODIFY A CAR'S EXTERIOR",
+        "members": [
+            "BUMPER",
+            "GRILLE",
+            "RIM",
+            "SPOILER"
+        ]
+    },
+    {
+        "group": "WHAT “CON” MIGHT MEAN",
+        "members": [
+            "CONVENTION",
+            "CRIMINAL",
+            "DRAWBACK",
+            "SWINDLE"
+        ]
+    },
+    {
+        "group": "DITTY",
+        "members": [
+            "AIR",
+            "NUMBER",
+            "SONG",
+            "STRAIN"
+        ]
+    },
+    {
+        "group": "SIDEBAR INFO ON A PERSON’S WIKIPEDIA PAGE",
+        "members": [
+            "BORN",
+            "EDUCATION",
+            "OCCUPATION",
+            "SPOUSE"
+        ]
+    },
+    {
+        "group": "CRIME ORGANIZATION",
+        "members": [
+            "CREW",
+            "FAMILY",
+            "RING",
+            "SYNDICATE"
+        ]
+    },
+    {
+        "group": "'80S SLANG",
+        "members": [
+            "CHILL",
+            "PSYCH",
+            "RADICAL",
+            "WORD"
+        ]
+    },
+    {
+        "group": "CEREAL MASCOTS",
+        "members": [
+            "COUNT",
+            "ELVES",
+            "LEPRECHAUN",
+            "ROOSTER"
+        ]
+    },
+    {
+        "group": "ENGAGING IN AN ACTIVITY WITH PINS OR NEEDLES",
+        "members": [
+            "ACUPUNCTURING",
+            "BOWLING",
+            "SEWING",
+            "WRESTLING"
+        ]
+    },
+    {
+        "group": "HIT SONGS OF 1998",
+        "members": [
+            "CLOSING TIME",
+            "IRIS",
+            "ONE WEEK",
+            "TOO CLOSE"
+        ]
+    },
+    {
+        "group": "DOGS OF THE SCREEN",
+        "members": [
+            "ASTRO",
+            "BLUE",
+            "HOOCH",
+            "TOTO"
+        ]
+    },
+    {
+        "group": "CONSIDERATIONS FOR MOVIE RATINGS",
+        "members": [
+            "ACTION",
+            "LANGUAGE",
+            "NUDITY",
+            "SMOKING"
+        ]
+    },
+    {
+        "group": "WHAT A DRINK IS SERVED WITH",
+        "members": [
+            "COASTER",
+            "GARNISH",
+            "GLASS",
+            "STRAW"
+        ]
+    },
+    {
+        "group": "BAD THINGS FOR A WEBSITE TO DO",
+        "members": [
+            "FREEZE",
+            "GLITCH",
+            "TIMEOUT",
+            "QUIT"
+        ]
+    },
+    {
+        "group": "CONTENTS OF A POD",
+        "members": [
+            "ASTRONAUT",
+            "COFFEE",
+            "PEA",
+            "WHALE"
+        ]
+    },
+    {
+        "group": "CLASSIC TOYS",
+        "members": [
+            "BALL",
+            "BLOCKS",
+            "JACKS",
+            "TRAIN"
+        ]
+    },
+    {
+        "group": "PRO WRESTLING ICONS, WITH “THE”",
+        "members": [
+            "HITMAN",
+            "ROCK",
+            "SNAKE",
+            "UNDERTAKER"
+        ]
+    },
+    {
+        "group": "APPLE PRODUCTS",
+        "members": [
+            "BRANDY",
+            "BUTTER",
+            "CIDER",
+            "SAUCE"
+        ]
+    },
+    {
+        "group": "HBO SHOWS",
+        "members": [
+            "ENTOURAGE",
+            "EUPHORIA",
+            "INSECURE",
+            "SUCCESSION"
+        ]
+    },
+    {
+        "group": "WORDS IN HEMINGWAY TITLES",
+        "members": [
+            "BELL",
+            "FAREWELL",
+            "OLD MAN",
+            "SUN"
+        ]
+    },
+    {
+        "group": "SEEN IN OPENING CREDITS",
+        "members": [
+            "CAST",
+            "DIRECTOR",
+            "STUDIO",
+            "TITLE"
+        ]
+    },
+    {
+        "group": "WOODWORKING HAND TOOLS",
+        "members": [
+            "CHISEL",
+            "PLANE",
+            "RASP",
+            "SAW"
+        ]
+    },
+    {
+        "group": "LEGAL DRAMAS",
+        "members": [
+            "DAMAGES",
+            "GOLIATH",
+            "MATLOCK",
+            "SUITS"
+        ]
+    },
+    {
+        "group": "“SESAME STREET” FIGURES",
+        "members": [
+            "BIRD",
+            "COUNT",
+            "GROUCH",
+            "MONSTER"
+        ]
+    },
+    {
+        "group": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
+        "members": [
+            "BOOT",
+            "POINTS",
+            "TICKET",
+            "TOW"
+        ]
+    },
+    {
+        "group": "DANCE MOVES",
+        "members": [
+            "CABBAGE PATCH",
+            "FLOSS",
+            "MOONWALK",
+            "ROBOT"
+        ]
+    },
+    {
+        "group": "SECOND WORDS IN DAVID LYNCH TITLES",
+        "members": [
+            "DRIVE",
+            "HIGHWAY",
+            "PEAKS",
+            "VELVET"
+        ]
+    },
+    {
+        "group": "DAPPER",
+        "members": [
+            "NEAT",
+            "SHARP",
+            "SMART",
+            "TIDY"
+        ]
+    },
+    {
+        "group": "WORDS AFTER “T-”",
+        "members": [
+            "MOBILE",
+            "PAIN",
+            "REX",
+            "SHIRT"
+        ]
+    },
+    {
+        "group": "PRO ATHLETE DATA",
+        "members": [
+            "COLLEGE",
+            "NUMBER",
+            "POSITION",
+            "TEAM"
+        ]
+    },
+    {
+        "group": "WHAT “LA” MIGHT REFER TO",
+        "members": [
+            "LANTHANUM",
+            "LOS ANGELES",
+            "LOUISIANA",
+            "MUSICAL NOTE"
+        ]
+    },
+    {
+        "group": "YEARN",
+        "members": [
+            "BURN",
+            "ITCH",
+            "LONG",
+            "PINE"
+        ]
+    },
+    {
+        "group": "DRS",
+        "members": [
+            "DRE",
+            "EVIL",
+            "PEPPER",
+            "SEUSS"
+        ]
+    },
+    {
+        "group": "BASKETBALL MOVES",
+        "members": [
+            "BLOCK",
+            "DRIBBLE",
+            "PASS",
+            "SHOOT"
+        ]
+    },
+    {
+        "group": "SOMETHING ENTERED FOR ACCESS",
+        "members": [
+            "CODE",
+            "KEY",
+            "PASSWORD",
+            "PIN"
+        ]
+    },
+    {
+        "group": "THINGS YOU DO AT SOMEONE'S FRONT DOOR",
+        "members": [
+            "BUZZ",
+            "KNOCK",
+            "RING",
+            "SHOUT"
+        ]
+    },
+    {
+        "group": "USED IN VENTILATION",
+        "members": [
+            "DUCT",
+            "EXHAUST",
+            "HOSE",
+            "PIPE"
+        ]
+    },
+    {
+        "group": "KINDS OF SONGS",
+        "members": [
+            "FOLK",
+            "LOVE",
+            "SIREN",
+            "SWAN"
+        ]
+    },
+    {
+        "group": "ERA",
+        "members": [
+            "AGE",
+            "DAY",
+            "PERIOD",
+            "TIME"
+        ]
+    },
+    {
+        "group": "SLANG FOR PRINTED MATTER",
+        "members": [
+            "GLOSSY",
+            "MAG",
+            "RAG",
+            "ZINE"
+        ]
+    },
+    {
+        "group": "WORDS BEFORE “ROGER/S”",
+        "members": [
+            "GINGER",
+            "JOLLY",
+            "MISTER",
+            "ROY"
+        ]
+    },
+    {
+        "group": "HORROR MOVIES FROM 2022",
+        "members": [
+            "NOPE",
+            "PEARL",
+            "SCREAM",
+            "SMILE"
+        ]
+    },
+    {
+        "group": "CLOSE IN ON",
+        "members": [
+            "CORNER",
+            "SURROUND",
+            "TRAP",
+            "TREE"
+        ]
+    },
+    {
+        "group": "SUPER ___",
+        "members": [
+            "GLUE",
+            "MARIO WORLD",
+            "PAC",
+            "POWER"
+        ]
+    },
+    {
+        "group": "YOGA BACKBENDS",
+        "members": [
+            "BRIDGE",
+            "COBRA",
+            "COW",
+            "WHEEL"
+        ]
+    },
+    {
+        "group": "SHARP FASTENERS",
+        "members": [
+            "BRAD",
+            "NAIL",
+            "PIN",
+            "TACK"
+        ]
+    },
+    {
+        "group": "MARTINI SPECIFICATIONS",
+        "members": [
+            "DRY",
+            "GIN",
+            "SHAKEN",
+            "TWIST"
+        ]
+    },
+    {
+        "group": "CONCEPTS FROM “SEINFELD”",
+        "members": [
+            "FESTIVUS",
+            "REGIFTING",
+            "SHRINKAGE",
+            "YADA YADA"
+        ]
+    },
+    {
+        "group": "PATTERNS",
+        "members": [
+            "CAMO",
+            "CHECKERS",
+            "HONEYCOMB",
+            "STRIPES"
+        ]
+    },
+    {
+        "group": "RELATED TO BUYING A HOME",
+        "members": [
+            "APPRAISAL",
+            "ESCROW",
+            "INSURANCE",
+            "MORTGAGE"
+        ]
+    },
+    {
+        "group": "PARTS OF A BASKETBALL HOOP",
+        "members": [
+            "BACKBOARD",
+            "NET",
+            "POLE",
+            "RIM"
+        ]
+    },
+    {
+        "group": "BASEBALL CALLS",
+        "members": [
+            "BALL",
+            "FAIR",
+            "FOUL",
+            "OUT"
+        ]
+    },
+    {
+        "group": "TRAVEL ON FOOT",
+        "members": [
+            "MARCH",
+            "HIKE",
+            "TRAMP",
+            "TREK"
+        ]
+    },
+    {
+        "group": "WORDS BEFORE \"SCHOOL\"",
+        "members": [
+            "ELEMENTARY",
+            "GRADE",
+            "GRAMMAR",
+            "PRIMARY"
+        ]
+    },
+    {
+        "group": "ITEM IN A COLLECTION",
+        "members": [
+            "COIN",
+            "COMIC",
+            "RECORD",
+            "STAMP"
+        ]
+    },
+    {
+        "group": "POKER ACTIONS",
+        "members": [
+            "CALL",
+            "CHECK",
+            "FOLD",
+            "RAISE"
+        ]
+    },
+    {
+        "group": "STARTING WITH GREEK NUMERICAL PREFIXES",
+        "members": [
+            "DIOXIDE",
+            "MONORAIL",
+            "TETRACYCLINE",
+            "TRIANGLE"
+        ]
+    },
+    {
+        "group": "THIRD ___",
+        "members": [
+            "EYE",
+            "PARTY",
+            "RAIL",
+            "ROCK"
+        ]
+    },
+    {
+        "group": "LEGENDS OF CLASSIC HOLLYWOOD",
+        "members": [
+            "DEAN",
+            "GABLE",
+            "GARLAND",
+            "TEMPLE"
+        ]
+    },
+    {
+        "group": "BOWLING RESULTS",
+        "members": [
+            "FOUL",
+            "SPARE",
+            "SPLIT",
+            "STRIKE"
+        ]
+    },
+    {
+        "group": "MANIA",
+        "members": [
+            "BUG",
+            "CRAZE",
+            "FAD",
+            "FEVER"
+        ]
+    },
+    {
+        "group": "[LETTER] (IS) FOR ___",
+        "members": [
+            "APPLE",
+            "COOKIE",
+            "EFFORT",
+            "VENDETTA"
+        ]
+    },
+    {
+        "group": "USED TO DECORATE A SNOWMAN",
+        "members": [
+            "CARROT",
+            "COAL",
+            "PIPE",
+            "SCARF"
+        ]
+    },
+    {
+        "group": "BOXING PUNCHES",
+        "members": [
+            "CROSS",
+            "HOOK",
+            "JAB",
+            "UPPERCUT"
+        ]
+    },
+    {
+        "group": "ONES WITH POINTY EARS",
+        "members": [
+            "BATMAN",
+            "DEVIL",
+            "ELF",
+            "VULCAN"
+        ]
+    },
+    {
+        "group": "THINGS YOU MIGHT DO DURING A BORING CLASS/MEETING",
+        "members": [
+            "DOODLE",
+            "DOZE",
+            "PASS NOTES",
+            "SPACE"
+        ]
+    },
+    {
+        "group": "MOVIES FEATURING SUPERNATURAL ROMANCE",
+        "members": [
+            "CASPER",
+            "GHOST",
+            "LET ME IN",
+            "TWILIGHT"
+        ]
+    },
+    {
+        "group": "KINDS OF FICTION",
+        "members": [
+            "FAN",
+            "HISTORICAL",
+            "PULP",
+            "SCIENCE"
+        ]
+    },
+    {
+        "group": "SPECS ON CONSUMER PACKAGING",
+        "members": [
+            "COUNT",
+            "MEASURE",
+            "WEIGHT",
+            "VOLUME"
+        ]
+    },
+    {
+        "group": "LANDMARKS IN DOWNTOWN NYC",
+        "members": [
+            "BOWLING GREEN",
+            "BROOKLYN BRIDGE",
+            "CITY HALL",
+            "WALL STREET"
+        ]
+    }
+]
