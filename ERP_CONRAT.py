@@ -1013,7 +1013,7 @@ class RATGame:
 # ======================================================================
 class PostQuestionnaire:
     """
-    Shows 5 Likert (1–5) items, one at a time, labeled 'test' as placeholders.
+    Shows 12 Likert (1–10) items, one at a time.
     Markers:
       PlayerX_PostSurvey_Start / PlayerX_PostSurvey_End  (sent by ExperimentApp)
       PlayerX_PostQ#_<rating> on each response
@@ -1026,15 +1026,22 @@ class PostQuestionnaire:
         self.send_marker = send_marker
         self.app = app
 
-        # Placeholder questions — replace text later in code as needed
+        # 12 final questions
         self.questions = [
-            "test 1",
-            "test 2",
-            "test 3",
-            "test 4",
-            "test 5",
+            "I am often entertained by my own thoughts, they take me interesting places",
+            "I enjoy engaging with fictional and cultural media (books, movies, shows, music)",
+            "I find it hard to think about things that are outside of my current perception",
+            "I have a lot of stories to tell",
+            "I find it hard to change topics/contexts/tasks once I get into something",
+            "I am easily reminded of memories/characters/movies/books/memes as I go through daily life",
+            "I can keep a conversation going and can switch topics easily",
+            "I get bored easily",
+            "I find it easy to get curious about things I know little about",
+            "I find it easier to remember general patterns rather than specific memories",
+            "I am good at dealing with novel and unexpected situations",
+            "It isn’t hard to think of specific examples to illustrate my point",
         ]
-        self.index = 0  # 0..4
+        self.index = 0  # 0..11
 
         self.frame = tk.Frame(self.parent)
         self.frame.pack(expand=True, fill="both")
@@ -1056,21 +1063,38 @@ class PostQuestionnaire:
         self.app._last_on_next = self.skip_current
 
         qnum = self.index + 1
-        tk.Label(self.frame, text=f"Question {qnum} of {len(self.questions)}", font=FONT_RAT_TIMER).pack(pady=10)
-        tk.Label(self.frame, text=self.questions[self.index], font=FONT_RAT_PROMPT, wraplength=800, justify="center").pack(pady=20)
-        tk.Label(self.frame, text="Please rate from 1 to 5.", font=FONT_RAT_FEEDBACK).pack(pady=10)
+        tk.Label(
+            self.frame,
+            text=f"Question {qnum} of {len(self.questions)}",
+            font=FONT_RAT_TIMER
+        ).pack(pady=10)
+
+        tk.Label(
+            self.frame,
+            text=self.questions[self.index],
+            font=FONT_RAT_PROMPT,
+            wraplength=800,
+            justify="center"
+        ).pack(pady=20)
+
+        tk.Label(
+            self.frame,
+            text="Please rate from 1 (Not at all like me) to 10 (Very much like me).",
+            font=FONT_RAT_FEEDBACK
+        ).pack(pady=10)
 
         row = tk.Frame(self.frame)
         row.pack(pady=6)
 
-        for val in range(1, 6):
+        # Create rating buttons 1–10
+        for val in range(1, 11):
             tk.Button(
                 row,
                 text=str(val),
                 font=("Arial", 16, "bold"),
                 width=3,
                 command=lambda v=val: self.record_response(v)
-            ).pack(side="left", padx=6)
+            ).pack(side="left", padx=4, pady=4)
 
     def record_response(self, value):
         qnum = self.index + 1
@@ -1085,6 +1109,7 @@ class PostQuestionnaire:
             self.send_marker(f"PostQ{qnum}_NoResponse")
             self.index += 1
             self.show_current()
+
 
 
 # ======================================================================
